@@ -1,6 +1,11 @@
 /clone-1440.json
 /clone-390.json
-/replean
+/replean/*
+!/replean/design/
+/replean/design/*
+!/replean/design/chips-exact-data.json
+!/replean/design/chips-exact-data-390.json
+!/replean/design/target-chips.json
 /node_modules
 /.next
 .env*

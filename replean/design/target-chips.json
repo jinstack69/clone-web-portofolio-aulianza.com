@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Claude",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "OpenAI",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Gemini",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "LangChain",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Hugging Face",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Ollama",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Vercel AI SDK",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "MCP",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "RAG",
+    "bg": "rgb(47, 69, 255)",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "React",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Next.js",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "TypeScript",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "JavaScript",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Tailwind CSS",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Vue",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Nuxt",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Vite",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Redux",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Zustand",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "TanStack Query",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "shadcn/ui",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Radix UI",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Framer Motion",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "GSAP",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Three.js",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Sass",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Storybook",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Zod",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "React Native",
+    "bg": "rgb(255, 178, 30)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Expo",
+    "bg": "rgb(255, 178, 30)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Firebase",
+    "bg": "rgb(255, 178, 30)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "PWA",
+    "bg": "rgb(255, 178, 30)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Electron",
+    "bg": "rgb(255, 178, 30)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Node.js",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Bun",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "NestJS",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Express",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "tRPC",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "GraphQL",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "PostgreSQL",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "MySQL",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "MongoDB",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Redis",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Prisma",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Supabase",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Socket.IO",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Pusher",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Stripe",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Laravel",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "PHP",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Python",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "FastAPI",
+    "bg": "rgb(116, 131, 255)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Docker",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Nginx",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Linux",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Git",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "GitHub Actions",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Vercel",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Cloudflare",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "AWS",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "MinIO",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Tailscale",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "n8n",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "PostHog",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Jest",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Vitest",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Postman",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  },
+  {
+    "name": "Figma",
+    "bg": "rgb(25, 195, 156)",
+    "color": "rgb(15, 22, 48)"
+  }
+]
