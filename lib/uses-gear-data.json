@@ -1,0 +1,331 @@
+[
+  {
+    "id": "use-cubic-adjustable-desk-yagi-ad4",
+    "name": "Cubic Adjustable Desk YAGI AD4",
+    "desc": "Goes up, goes down. My back loves it.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-ikea-alex-drawer",
+    "name": "IKEA Alex Drawer",
+    "desc": "5 drawers of organized chaos.",
+    "tag": "Drawer",
+    "onDesk": false
+  },
+  {
+    "id": "use-nook-desk-shelf",
+    "name": "Nook Desk Shelf",
+    "desc": "Elevates monitors and my productivity.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-fantech-oca259-pro-chair",
+    "name": "Fantech OCA259 Pro Chair",
+    "desc": "My throne for marathon coding sessions.",
+    "tag": "Chair",
+    "onDesk": false
+  },
+  {
+    "id": "use-ikea-skadis-pegboard",
+    "name": "IKEA Skadis Pegboard",
+    "desc": "Wall-mounted organization magic.",
+    "tag": "Pegboard",
+    "onDesk": false
+  },
+  {
+    "id": "use-laopao-t188-monitor-lamp",
+    "name": "Laopao T188 Monitor Lamp",
+    "desc": "Saves my eyes during night sessions.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-nouzen-wireless-charger-deskmat",
+    "name": "Nouzen Wireless Charger Deskmat",
+    "desc": "Charges my phone while I glide my mouse.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-wrist-rest",
+    "name": "Wrist Rest",
+    "desc": "Clouds for my wrists. No more pain.",
+    "tag": "Wrist rest",
+    "onDesk": false
+  },
+  {
+    "id": "use-macbook-pro-m1-pro-16-16-512gb",
+    "name": "MacBook Pro M1 Pro 16\" 16/512GB",
+    "desc": "Power meets portability.",
+    "tag": "Laptop",
+    "onDesk": false
+  },
+  {
+    "id": "use-mac-mini-m4-16-256gb",
+    "name": "Mac Mini M4 16/256GB",
+    "desc": "Pair devices for MacOS ecosystems.",
+    "tag": "Mini PC",
+    "onDesk": false
+  },
+  {
+    "id": "use-gmktec-nucbox-k11-64gb-1tb",
+    "name": "GMKTec NucBox K11 64GB/1TB",
+    "desc": "Ryzen™ 9 8945HS + Radeon™ 780M",
+    "tag": "Mini PC",
+    "onDesk": false
+  },
+  {
+    "id": "use-samsung-galaxy-z-fold-8-512gb",
+    "name": "Samsung Galaxy Z Fold 8 512GB",
+    "desc": "My daily driver. A tablet when I unfold it.",
+    "tag": "Phone",
+    "onDesk": false
+  },
+  {
+    "id": "use-iphone-17-256gb",
+    "name": "iPhone 17 256GB",
+    "desc": "Secondary, iOS ecosystem at its finest.",
+    "tag": "Phone",
+    "onDesk": false
+  },
+  {
+    "id": "use-poco-f9-ultra-16-512gb",
+    "name": "Poco F9 Ultra 16/512GB",
+    "desc": "My third phone, for testing and gaming.",
+    "tag": "Phone",
+    "onDesk": false
+  },
+  {
+    "id": "use-xiaomi-34-ultrawide-monitor",
+    "name": "Xiaomi 34\" Ultrawide Monitor",
+    "desc": "My main canvas with wide view.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-xiaomi-g24i-monitor",
+    "name": "Xiaomi G24i Monitor",
+    "desc": "180Hz smoothness for terminal.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-lenovo-l24i-monitor",
+    "name": "Lenovo L24i Monitor",
+    "desc": "Vertical mode for endless scrolling.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-logitech-mx-keys-keyboard",
+    "name": "Logitech MX Keys Keyboard",
+    "desc": "Buttery smooth typing.",
+    "tag": "Keyboard",
+    "onDesk": false
+  },
+  {
+    "id": "use-keychron-k3-low-keyboard",
+    "name": "Keychron K3 Low Keyboard",
+    "desc": "Slim, clicky, and minimalist vibes.",
+    "tag": "Keyboard",
+    "onDesk": false
+  },
+  {
+    "id": "use-royal-kludge-r65-via-keyboard",
+    "name": "Royal Kludge R65 Via Keyboard",
+    "desc": "65% perfection. Creamy click.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-logitech-mx-master-3s",
+    "name": "Logitech MX Master 3S",
+    "desc": "The mouse that ruined all other mice.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-sony-wh-1000xm5",
+    "name": "Sony WH-1000XM5",
+    "desc": "Silence the world. Enter the zone.",
+    "tag": "Headphones",
+    "onDesk": false
+  },
+  {
+    "id": "use-soundcore-space-one",
+    "name": "Soundcore Space One",
+    "desc": "Budget ANC that punches above its weight.",
+    "tag": "Headphones",
+    "onDesk": false
+  },
+  {
+    "id": "use-qkz-ak6-pro",
+    "name": "QKZ AK6 Pro",
+    "desc": "Crisp audio for calls and music.",
+    "tag": "In-ear monitors",
+    "onDesk": false
+  },
+  {
+    "id": "use-samsung-galaxy-buds-3-pro",
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "desc": "Daily drivers. ANC and 360 audio goodness.",
+    "tag": "Wireless earbuds",
+    "onDesk": false
+  },
+  {
+    "id": "use-airpods-3",
+    "name": "Airpods 3",
+    "desc": "Quick calls, quick music. Apple magic.",
+    "tag": "Wireless earbuds",
+    "onDesk": false
+  },
+  {
+    "id": "use-samsung-galaxy-buds-fe",
+    "name": "Samsung Galaxy Buds FE",
+    "desc": "The backup squad. Always ready.",
+    "tag": "Wireless earbuds",
+    "onDesk": false
+  },
+  {
+    "id": "use-soundcore-boom-2",
+    "name": "Soundcore Boom 2",
+    "desc": "Bass that shakes the desk.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-maono-pd200x",
+    "name": "Maono PD200X",
+    "desc": "Tap to mute, RGB to flex. Sounds pro too.",
+    "tag": "On the desk",
+    "onDesk": true
+  },
+  {
+    "id": "use-secondwave-swa1",
+    "name": "Secondwave SWA1",
+    "desc": "Keeps my mic floating and cables hidden.",
+    "tag": "Mic arm",
+    "onDesk": false
+  },
+  {
+    "id": "use-xiaovv-full-hd",
+    "name": "Xiaovv Full HD",
+    "desc": "Daily meeting warrior. Gets the job done.",
+    "tag": "Webcam",
+    "onDesk": false
+  },
+  {
+    "id": "use-eyd-pc04-4k",
+    "name": "EYD PC04 4K",
+    "desc": "4K flex for when I need to look extra crisp.",
+    "tag": "Webcam",
+    "onDesk": false
+  },
+  {
+    "id": "use-claude-code",
+    "name": "Claude Code",
+    "desc": "My daily coding partner. Plans, writes and reviews with me in the terminal.",
+    "tag": "AI coding agent",
+    "onDesk": false
+  },
+  {
+    "id": "use-zed",
+    "name": "Zed",
+    "desc": "Fast, quiet editor. Opens instantly, even on big repos.",
+    "tag": "Code editor",
+    "onDesk": false
+  },
+  {
+    "id": "use-cmux",
+    "name": "cmux",
+    "desc": "A terminal built for running several coding agents side by side.",
+    "tag": "Terminal",
+    "onDesk": false
+  },
+  {
+    "id": "use-docker",
+    "name": "Docker",
+    "desc": "Every database and service runs in a container, same as production.",
+    "tag": "Containers",
+    "onDesk": false
+  },
+  {
+    "id": "use-bun",
+    "name": "Bun",
+    "desc": "Runs, tests and installs in one tool. This site is built with it.",
+    "tag": "JavaScript runtime",
+    "onDesk": false
+  },
+  {
+    "id": "use-pnpm",
+    "name": "pnpm",
+    "desc": "For projects that need it. Fast installs, strict dependencies.",
+    "tag": "Package manager",
+    "onDesk": false
+  },
+  {
+    "id": "use-git",
+    "name": "Git",
+    "desc": "Small commits, clear messages. History is documentation.",
+    "tag": "Version control",
+    "onDesk": false
+  },
+  {
+    "id": "use-reqable",
+    "name": "Reqable",
+    "desc": "Inspect and replay API requests while I debug.",
+    "tag": "API client",
+    "onDesk": false
+  },
+  {
+    "id": "use-beekeeper-studio",
+    "name": "Beekeeper Studio",
+    "desc": "A clean SQL client for Postgres and friends.",
+    "tag": "Database client",
+    "onDesk": false
+  },
+  {
+    "id": "use-brave",
+    "name": "Brave",
+    "desc": "My main browser. Fast, with ads and trackers blocked.",
+    "tag": "Browser",
+    "onDesk": false
+  },
+  {
+    "id": "use-typeless",
+    "name": "Typeless",
+    "desc": "I talk, it types. Notes, messages and prompts, hands free.",
+    "tag": "Voice typing",
+    "onDesk": false
+  },
+  {
+    "id": "use-wispr-flow",
+    "name": "Wispr Flow",
+    "desc": "My second voice typing app, for when I switch setups.",
+    "tag": "Voice typing",
+    "onDesk": false
+  },
+  {
+    "id": "use-tailscale",
+    "name": "Tailscale",
+    "desc": "Every machine I own on one private network, anywhere.",
+    "tag": "Private network",
+    "onDesk": false
+  },
+  {
+    "id": "use-dwagent",
+    "name": "DWAgent",
+    "desc": "Reach my desk machines from wherever I am.",
+    "tag": "Remote access",
+    "onDesk": false
+  },
+  {
+    "id": "use-blip",
+    "name": "Blip",
+    "desc": "Send any file between my devices in seconds.",
+    "tag": "File sharing",
+    "onDesk": false
+  }
+]

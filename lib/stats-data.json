@@ -1,0 +1,141 @@
+{
+  "allTime": {
+    "pageviews": "21,469",
+    "visitors": "5K",
+    "visits": "6.1K",
+    "bounceRate": "66%",
+    "avgVisit": "2m 23s",
+    "busiestMonth": "Busiest month was Dec 2025, with 3,686 views.",
+    "since": "Counting since Dec 2025"
+  },
+  "rangeData": {
+    "7d": {
+      "pageviews": "1,420",
+      "visitors": "480",
+      "visits": "620",
+      "bounceRate": "61%",
+      "avgVisit": "2m 45s",
+      "busiestMonth": "Busiest day was yesterday with 240 views.",
+      "since": "Last 7 days"
+    },
+    "30d": {
+      "pageviews": "5,840",
+      "visitors": "1.8K",
+      "visits": "2.3K",
+      "bounceRate": "64%",
+      "avgVisit": "2m 32s",
+      "busiestMonth": "Busiest week was last week with 1,620 views.",
+      "since": "Last 30 days"
+    },
+    "90d": {
+      "pageviews": "14,290",
+      "visitors": "3.6K",
+      "visits": "4.5K",
+      "bounceRate": "65%",
+      "avgVisit": "2m 28s",
+      "busiestMonth": "Busiest month was October 2026, with 4,120 views.",
+      "since": "Last 90 days"
+    },
+    "all": {
+      "pageviews": "21,469",
+      "visitors": "5K",
+      "visits": "6.1K",
+      "bounceRate": "66%",
+      "avgVisit": "2m 23s",
+      "busiestMonth": "Busiest month was Dec 2025, with 3,686 views.",
+      "since": "Counting since Dec 2025"
+    }
+  },
+  "chartData": {
+    "7d": [
+      { "time": "Nov 5", "views": 182, "visits": 78 },
+      { "time": "Nov 6", "views": 194, "visits": 84 },
+      { "time": "Nov 7", "views": 175, "visits": 72 },
+      { "time": "Nov 8", "views": 210, "visits": 92 },
+      { "time": "Nov 9", "views": 224, "visits": 96 },
+      { "time": "Nov 10", "views": 240, "visits": 105 },
+      { "time": "Nov 11", "views": 195, "visits": 93 }
+    ],
+    "30d": [
+      { "time": "Oct 13", "views": 820, "visits": 310 },
+      { "time": "Oct 20", "views": 1140, "visits": 430 },
+      { "time": "Oct 27", "views": 1380, "visits": 520 },
+      { "time": "Nov 3", "views": 1620, "visits": 610 },
+      { "time": "Nov 10", "views": 880, "visits": 430 }
+    ],
+    "90d": [
+      { "time": "Aug 2026", "views": 3840, "visits": 1210 },
+      { "time": "Sep 2026", "views": 4120, "visits": 1390 },
+      { "time": "Oct 2026", "views": 4920, "visits": 1520 },
+      { "time": "Nov 2026", "views": 1410, "visits": 380 }
+    ],
+    "all": [
+      { "time": "Dec 2025", "views": 3686, "visits": 1040 },
+      { "time": "Jan 2026", "views": 2420, "visits": 720 },
+      { "time": "Feb 2026", "views": 1850, "visits": 540 },
+      { "time": "Mar 2026", "views": 1980, "visits": 590 },
+      { "time": "Apr 2026", "views": 2150, "visits": 630 },
+      { "time": "May 2026", "views": 1720, "visits": 490 },
+      { "time": "Jun 2026", "views": 1610, "visits": 460 },
+      { "time": "Jul 2026", "views": 1940, "visits": 560 },
+      { "time": "Aug 2026", "views": 1530, "visits": 440 },
+      { "time": "Sep 2026", "views": 1890, "visits": 520 },
+      { "time": "Oct 2026", "views": 2410, "visits": 680 },
+      { "time": "Nov 2026", "views": 1283, "visits": 390 }
+    ]
+  },
+  "shares": {
+    "devices": [
+      { "key": "desktop", "label": "Desktop", "value": 4520, "share": 0.742 },
+      { "key": "mobile", "label": "Mobile", "value": 1470, "share": 0.241 },
+      { "key": "tablet", "label": "Tablet", "value": 104, "share": 0.017 }
+    ],
+    "browsers": [
+      { "key": "chrome", "label": "Chrome", "value": 3560, "share": 0.584 },
+      { "key": "safari", "label": "Safari", "value": 1390, "share": 0.228 },
+      { "key": "firefox", "label": "Firefox", "value": 590, "share": 0.097 },
+      { "key": "edge", "label": "Edge", "value": 390, "share": 0.064 },
+      { "key": "arc", "label": "Arc", "value": 130, "share": 0.021 },
+      { "key": "other", "label": "Other", "value": 36, "share": 0.006 }
+    ],
+    "systems": [
+      { "key": "macos", "label": "macOS", "value": 3005, "share": 0.493 },
+      { "key": "windows", "label": "Windows", "value": 1658, "share": 0.272 },
+      { "key": "ios", "label": "iOS", "value": 860, "share": 0.141 },
+      { "key": "android", "label": "Android", "value": 494, "share": 0.081 },
+      { "key": "linux", "label": "Linux", "value": 79, "share": 0.013 }
+    ]
+  },
+  "pages": [
+    { "rank": 1, "label": "Home", "url": "/", "count": "6,099", "share": "41.5%" },
+    { "rank": 2, "label": "/portfolio", "url": "/portfolio", "count": "2,059", "share": "14%" },
+    { "rank": 3, "label": "/tools", "url": "/tools", "count": "1,163", "share": "7.9%" },
+    { "rank": 4, "label": "/about", "url": "/about", "count": "1,101", "share": "7.5%" },
+    { "rank": 5, "label": "/blog", "url": "/blog", "count": "960", "share": "6.5%" },
+    { "rank": 6, "label": "/links", "url": "/links", "count": "954", "share": "6.5%" },
+    { "rank": 7, "label": "/guestbook", "url": "/guestbook", "count": "741", "share": "5%" },
+    { "rank": 8, "label": "/portal", "url": "/portal", "count": "626", "share": "4.3%" },
+    { "rank": 9, "label": "/contact", "url": "/contact", "count": "507", "share": "3.5%" },
+    { "rank": 10, "label": "/uses", "url": "/uses", "count": "473", "share": "3.2%" }
+  ],
+  "sources": [
+    { "rank": 1, "label": "Direct", "count": "3,842", "share": "52.4%" },
+    { "rank": 2, "label": "google.com", "count": "1,492", "share": "20.3%" },
+    { "rank": 3, "label": "github.com", "count": "894", "share": "12.2%" },
+    { "rank": 4, "label": "x.com", "count": "581", "share": "7.9%" },
+    { "rank": 5, "label": "linkedin.com", "count": "392", "share": "5.3%" },
+    { "rank": 6, "label": "threads.net", "count": "136", "share": "1.9%" }
+  ],
+  "countries": [
+    { "rank": 1, "label": "Indonesia", "flag": "id", "count": "3,281", "share": "54.1%" },
+    { "rank": 2, "label": "United States", "flag": "us", "count": "982", "share": "16.2%" },
+    { "rank": 3, "label": "Saudi Arabia", "flag": "sa", "count": "451", "share": "7.4%" },
+    { "rank": 4, "label": "United Arab Emirates", "flag": "ae", "count": "384", "share": "6.3%" },
+    { "rank": 5, "label": "Singapore", "flag": "sg", "count": "291", "share": "4.8%" },
+    { "rank": 6, "label": "United Kingdom", "flag": "gb", "count": "194", "share": "3.2%" },
+    { "rank": 7, "label": "Germany", "flag": "de", "count": "182", "share": "3.0%" },
+    { "rank": 8, "label": "Malaysia", "flag": "my", "count": "142", "share": "2.3%" },
+    { "rank": 9, "label": "India", "flag": "in", "count": "98", "share": "1.6%" },
+    { "rank": 10, "label": "Netherlands", "flag": "nl", "count": "62", "share": "1.0%" }
+  ]
+}

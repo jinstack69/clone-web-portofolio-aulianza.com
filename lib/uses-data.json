@@ -1,0 +1,460 @@
+{
+  "hotspots": [
+    {
+      "left": "82%",
+      "top": "60%",
+      "label": "Show Cubic Adjustable Desk YAGI AD4 in the list",
+      "name": "Cubic Adjustable Desk YAGI AD4",
+      "category": "Desk"
+    },
+    {
+      "left": "35%",
+      "top": "58%",
+      "label": "Show Nook Desk Shelf in the list",
+      "name": "Nook Desk Shelf",
+      "category": "Desk shelf"
+    },
+    {
+      "left": "18%",
+      "top": "6%",
+      "label": "Show Laopao T188 Monitor Lamp in the list",
+      "name": "Laopao T188 Monitor Lamp",
+      "category": "Monitor lamp"
+    },
+    {
+      "left": "30%",
+      "top": "93%",
+      "label": "Show Nouzen Wireless Charger Deskmat in the list",
+      "name": "Nouzen Wireless Charger Deskmat",
+      "category": "Deskmat"
+    },
+    {
+      "left": "25%",
+      "top": "35%",
+      "label": "Show Xiaomi 34&quot; Ultrawide Monitor in the list",
+      "name": "Xiaomi 34\" Ultrawide Monitor",
+      "category": "Main monitor"
+    },
+    {
+      "left": "68%",
+      "top": "25%",
+      "label": "Show Xiaomi G24i Monitor in the list",
+      "name": "Xiaomi G24i Monitor",
+      "category": "Second monitor"
+    },
+    {
+      "left": "8%",
+      "top": "55%",
+      "label": "Show Lenovo L24i Monitor in the list",
+      "name": "Lenovo L24i Monitor",
+      "category": "Third monitor"
+    },
+    {
+      "left": "52%",
+      "top": "82%",
+      "label": "Show Royal Kludge R65 Via Keyboard in the list",
+      "name": "Royal Kludge R65 Via Keyboard",
+      "category": "Keyboard"
+    },
+    {
+      "left": "68%",
+      "top": "68%",
+      "label": "Show Logitech MX Master 3S in the list",
+      "name": "Logitech MX Master 3S",
+      "category": "Mouse"
+    },
+    {
+      "left": "67%",
+      "top": "46%",
+      "label": "Show Soundcore Boom 2 in the list",
+      "name": "Soundcore Boom 2",
+      "category": "Speaker"
+    },
+    {
+      "left": "56%",
+      "top": "57%",
+      "label": "Show Maono PD200X in the list",
+      "name": "Maono PD200X",
+      "category": "Microphone"
+    }
+  ],
+  "groups": [
+    {
+      "id": "group-workspace",
+      "num": "01",
+      "title": "Workspace",
+      "count": 8,
+      "items": [
+        {
+          "id": "cubic-adjustable-desk-yagi-ad4",
+          "name": "Cubic Adjustable Desk YAGI AD4",
+          "description": "Goes up, goes down. My back loves it.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "ikea-alex-drawer",
+          "name": "IKEA Alex Drawer",
+          "description": "5 drawers of organized chaos.",
+          "tag": "Drawer",
+          "isOnDesk": false
+        },
+        {
+          "id": "nook-desk-shelf",
+          "name": "Nook Desk Shelf",
+          "description": "Elevates monitors and my productivity.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "fantech-oca259-pro-chair",
+          "name": "Fantech OCA259 Pro Chair",
+          "description": "My throne for marathon coding sessions.",
+          "tag": "Chair",
+          "isOnDesk": false
+        },
+        {
+          "id": "ikea-skadis-pegboard",
+          "name": "IKEA Skadis Pegboard",
+          "description": "Wall-mounted organization magic.",
+          "tag": "Pegboard",
+          "isOnDesk": false
+        },
+        {
+          "id": "laopao-t188-monitor-lamp",
+          "name": "Laopao T188 Monitor Lamp",
+          "description": "Saves my eyes during night sessions.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "nouzen-wireless-charger-deskmat",
+          "name": "Nouzen Wireless Charger Deskmat",
+          "description": "Charges my phone while I glide my mouse.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "wrist-rest",
+          "name": "Wrist Rest",
+          "description": "Clouds for my wrists. No more pain.",
+          "tag": "Wrist rest",
+          "isOnDesk": false
+        }
+      ]
+    },
+    {
+      "id": "group-devices",
+      "num": "02",
+      "title": "Devices & Monitors",
+      "count": 9,
+      "items": [
+        {
+          "id": "macbook-pro-m1-pro-16-16-512gb",
+          "name": "MacBook Pro M1 Pro 16\" 16/512GB",
+          "description": "Power meets portability.",
+          "tag": "Laptop",
+          "isOnDesk": false
+        },
+        {
+          "id": "mac-mini-m4-16-256gb",
+          "name": "Mac Mini M4 16/256GB",
+          "description": "Pair devices for MacOS ecosystems.",
+          "tag": "Mini PC",
+          "isOnDesk": false
+        },
+        {
+          "id": "gmktec-nucbox-k11-64gb-1tb",
+          "name": "GMKTec NucBox K11 64GB/1TB",
+          "description": "Ryzen™ 9 8945HS + Radeon™ 780M",
+          "tag": "Mini PC",
+          "isOnDesk": false
+        },
+        {
+          "id": "samsung-galaxy-z-fold-8-512gb",
+          "name": "Samsung Galaxy Z Fold 8 512GB",
+          "description": "My daily driver. A tablet when I unfold it.",
+          "tag": "Phone",
+          "isOnDesk": false
+        },
+        {
+          "id": "iphone-17-256gb",
+          "name": "iPhone 17 256GB",
+          "description": "Secondary, iOS ecosystem at its finest.",
+          "tag": "Phone",
+          "isOnDesk": false
+        },
+        {
+          "id": "poco-f9-ultra-16-512gb",
+          "name": "Poco F9 Ultra 16/512GB",
+          "description": "My third phone, for testing and gaming.",
+          "tag": "Phone",
+          "isOnDesk": false
+        },
+        {
+          "id": "xiaomi-34-ultrawide-monitor",
+          "name": "Xiaomi 34\" Ultrawide Monitor",
+          "description": "My main canvas with wide view.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "xiaomi-g24i-monitor",
+          "name": "Xiaomi G24i Monitor",
+          "description": "180Hz smoothness for terminal.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "lenovo-l24i-monitor",
+          "name": "Lenovo L24i Monitor",
+          "description": "Vertical mode for endless scrolling.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        }
+      ]
+    },
+    {
+      "id": "group-input",
+      "num": "03",
+      "title": "Input Devices",
+      "count": 4,
+      "items": [
+        {
+          "id": "logitech-mx-keys-keyboard",
+          "name": "Logitech MX Keys Keyboard",
+          "description": "Buttery smooth typing.",
+          "tag": "Keyboard",
+          "isOnDesk": false
+        },
+        {
+          "id": "keychron-k3-low-keyboard",
+          "name": "Keychron K3 Low Keyboard",
+          "description": "Slim, clicky, and minimalist vibes.",
+          "tag": "Keyboard",
+          "isOnDesk": false
+        },
+        {
+          "id": "royal-kludge-r65-via-keyboard",
+          "name": "Royal Kludge R65 Via Keyboard",
+          "description": "65% perfection. Creamy click.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "logitech-mx-master-3s",
+          "name": "Logitech MX Master 3S",
+          "description": "The mouse that ruined all other mice.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        }
+      ]
+    },
+    {
+      "id": "group-audio",
+      "num": "04",
+      "title": "Audio Setup",
+      "count": 9,
+      "items": [
+        {
+          "id": "sony-wh-1000xm5",
+          "name": "Sony WH-1000XM5",
+          "description": "Silence the world. Enter the zone.",
+          "tag": "Headphones",
+          "isOnDesk": false
+        },
+        {
+          "id": "soundcore-space-one",
+          "name": "Soundcore Space One",
+          "description": "Budget ANC that punches above its weight.",
+          "tag": "Headphones",
+          "isOnDesk": false
+        },
+        {
+          "id": "qkz-ak6-pro",
+          "name": "QKZ AK6 Pro",
+          "description": "Crisp audio for calls and music.",
+          "tag": "In-ear monitors",
+          "isOnDesk": false
+        },
+        {
+          "id": "samsung-galaxy-buds-3-pro",
+          "name": "Samsung Galaxy Buds 3 Pro",
+          "description": "Daily drivers. ANC and 360 audio goodness.",
+          "tag": "Wireless earbuds",
+          "isOnDesk": false
+        },
+        {
+          "id": "airpods-3",
+          "name": "Airpods 3",
+          "description": "Quick calls, quick music. Apple magic.",
+          "tag": "Wireless earbuds",
+          "isOnDesk": false
+        },
+        {
+          "id": "samsung-galaxy-buds-fe",
+          "name": "Samsung Galaxy Buds FE",
+          "description": "The backup squad. Always ready.",
+          "tag": "Wireless earbuds",
+          "isOnDesk": false
+        },
+        {
+          "id": "soundcore-boom-2",
+          "name": "Soundcore Boom 2",
+          "description": "Bass that shakes the desk.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "maono-pd200x",
+          "name": "Maono PD200X",
+          "description": "Tap to mute, RGB to flex. Sounds pro too.",
+          "tag": "On the desk",
+          "isOnDesk": true
+        },
+        {
+          "id": "secondwave-swa1",
+          "name": "Secondwave SWA1",
+          "description": "Keeps my mic floating and cables hidden.",
+          "tag": "Mic arm",
+          "isOnDesk": false
+        }
+      ]
+    },
+    {
+      "id": "group-video",
+      "num": "05",
+      "title": "Video & Streaming",
+      "count": 2,
+      "items": [
+        {
+          "id": "xiaovv-full-hd",
+          "name": "Xiaovv Full HD",
+          "description": "Daily meeting warrior. Gets the job done.",
+          "tag": "Webcam",
+          "isOnDesk": false
+        },
+        {
+          "id": "eyd-pc04-4k",
+          "name": "EYD PC04 4K",
+          "description": "4K flex for when I need to look extra crisp.",
+          "tag": "Webcam",
+          "isOnDesk": false
+        }
+      ]
+    },
+    {
+      "id": "group-software",
+      "num": "06",
+      "title": "Software & Apps",
+      "count": 15,
+      "items": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "description": "My daily coding partner. Plans, writes and reviews with me in the terminal.",
+          "tag": "AI coding agent",
+          "isOnDesk": false
+        },
+        {
+          "id": "zed",
+          "name": "Zed",
+          "description": "Fast, quiet editor. Opens instantly, even on big repos.",
+          "tag": "Code editor",
+          "isOnDesk": false
+        },
+        {
+          "id": "cmux",
+          "name": "cmux",
+          "description": "A terminal built for running several coding agents side by side.",
+          "tag": "Terminal",
+          "isOnDesk": false
+        },
+        {
+          "id": "docker",
+          "name": "Docker",
+          "description": "Every database and service runs in a container, same as production.",
+          "tag": "Containers",
+          "isOnDesk": false
+        },
+        {
+          "id": "bun",
+          "name": "Bun",
+          "description": "Runs, tests and installs in one tool. This site is built with it.",
+          "tag": "JavaScript runtime",
+          "isOnDesk": false
+        },
+        {
+          "id": "pnpm",
+          "name": "pnpm",
+          "description": "For projects that need it. Fast installs, strict dependencies.",
+          "tag": "Package manager",
+          "isOnDesk": false
+        },
+        {
+          "id": "git",
+          "name": "Git",
+          "description": "Small commits, clear messages. History is documentation.",
+          "tag": "Version control",
+          "isOnDesk": false
+        },
+        {
+          "id": "reqable",
+          "name": "Reqable",
+          "description": "Inspect and replay API requests while I debug.",
+          "tag": "API client",
+          "isOnDesk": false
+        },
+        {
+          "id": "beekeeper-studio",
+          "name": "Beekeeper Studio",
+          "description": "A clean SQL client for Postgres and friends.",
+          "tag": "Database client",
+          "isOnDesk": false
+        },
+        {
+          "id": "brave",
+          "name": "Brave",
+          "description": "My main browser. Fast, with ads and trackers blocked.",
+          "tag": "Browser",
+          "isOnDesk": false
+        },
+        {
+          "id": "typeless",
+          "name": "Typeless",
+          "description": "I talk, it types. Notes, messages and prompts, hands free.",
+          "tag": "Voice typing",
+          "isOnDesk": false
+        },
+        {
+          "id": "wispr-flow",
+          "name": "Wispr Flow",
+          "description": "My second voice typing app, for when I switch setups.",
+          "tag": "Voice typing",
+          "isOnDesk": false
+        },
+        {
+          "id": "tailscale",
+          "name": "Tailscale",
+          "description": "Every machine I own on one private network, anywhere.",
+          "tag": "Private network",
+          "isOnDesk": false
+        },
+        {
+          "id": "dwagent",
+          "name": "DWAgent",
+          "description": "Reach my desk machines from wherever I am.",
+          "tag": "Remote access",
+          "isOnDesk": false
+        },
+        {
+          "id": "blip",
+          "name": "Blip",
+          "description": "Send any file between my devices in seconds.",
+          "tag": "File sharing",
+          "isOnDesk": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "num": "01",
+    "slug": "json-formatter",
+    "title": "JSON formatter",
+    "description": "Format, check and minify JSON. Errors show the exact problem.",
+    "category": "Developer tools",
+    "href": "/tools/json-formatter"
+  },
+  {
+    "num": "02",
+    "slug": "color-palette-generator",
+    "title": "Color palette generator",
+    "description": "Pick one color and get a palette from five harmony rules, ready to copy.",
+    "category": "Design tools",
+    "href": "/tools/color-palette-generator"
+  },
+  {
+    "num": "03",
+    "slug": "box-shadow-generator",
+    "title": "Box shadow generator",
+    "description": "Layer CSS box shadows with live preview and copy the code.",
+    "category": "CSS tools",
+    "href": "/tools/box-shadow-generator"
+  },
+  {
+    "num": "04",
+    "slug": "svg-to-react",
+    "title": "SVG to React",
+    "description": "Turn SVG markup into a typed React component with a size prop.",
+    "category": "Developer tools",
+    "href": "/tools/svg-to-react"
+  },
+  {
+    "num": "05",
+    "slug": "css-to-tailwind",
+    "title": "CSS to Tailwind",
+    "description": "Paste CSS declarations and get the matching Tailwind classes.",
+    "category": "CSS tools",
+    "href": "/tools/css-to-tailwind"
+  },
+  {
+    "num": "06",
+    "slug": "image-placeholder",
+    "title": "Image placeholder",
+    "description": "Make placeholder images in any size, color and text. Download as PNG.",
+    "category": "Design tools",
+    "href": "/tools/image-placeholder"
+  },
+  {
+    "num": "07",
+    "slug": "gradient-text",
+    "title": "Gradient text",
+    "description": "Design gradient text with live preview and copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/gradient-text"
+  },
+  {
+    "num": "08",
+    "slug": "glassmorphism",
+    "title": "Glassmorphism generator",
+    "description": "Tune blur, tint and border for a frosted glass panel, then copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/glassmorphism"
+  },
+  {
+    "num": "09",
+    "slug": "base64-converter",
+    "title": "Base64 encoder and decoder",
+    "description": "Encode text to Base64 or decode it back, right as you need it.",
+    "category": "Developer tools",
+    "href": "/tools/base64-converter"
+  },
+  {
+    "num": "10",
+    "slug": "lorem-ipsum",
+    "title": "Lorem ipsum generator",
+    "description": "Get placeholder text as paragraphs, sentences or words.",
+    "category": "Content tools",
+    "href": "/tools/lorem-ipsum"
+  },
+  {
+    "num": "11",
+    "slug": "nik-parser",
+    "title": "NIK parser",
+    "description": "Read an Indonesian ID number (NIK) and see its region, birth date and gender.",
+    "category": "Utilities",
+    "href": "/tools/nik-parser"
+  },
+  {
+    "num": "12",
+    "slug": "regex-tester",
+    "title": "Regex tester",
+    "description": "Test a JavaScript regex against your text and see every match and capture group live.",
+    "category": "Developer tools",
+    "href": "/tools/regex-tester"
+  },
+  {
+    "num": "13",
+    "slug": "uuid-generator",
+    "title": "UUID generator",
+    "description": "Generate random v4 or time-ordered v7 UUIDs, one per line, ready to copy.",
+    "category": "Developer tools",
+    "href": "/tools/uuid-generator"
+  },
+  {
+    "num": "14",
+    "slug": "css-gradient-generator",
+    "title": "CSS gradient generator",
+    "description": "Blend two to five color stops into a linear or radial gradient and copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/css-gradient-generator"
+  },
+  {
+    "num": "15",
+    "slug": "contrast-checker",
+    "title": "Contrast checker",
+    "description": "Check a text and background color pair against the WCAG AA and AAA contrast ratios.",
+    "category": "Design tools",
+    "href": "/tools/contrast-checker"
+  },
+  {
+    "num": "16",
+    "slug": "meta-tag-generator",
+    "title": "Meta tag generator",
+    "description": "Fill in your page details and copy a complete head block with meta, Open Graph and Twitter tags.",
+    "category": "SEO tools",
+    "href": "/tools/meta-tag-generator"
+  },
+  {
+    "num": "17",
+    "slug": "open-graph-preview",
+    "title": "Open Graph preview",
+    "description": "Type your Open Graph tags and see the Facebook, LinkedIn and X cards update live.",
+    "category": "SEO tools",
+    "href": "/tools/open-graph-preview"
+  },
+  {
+    "num": "18",
+    "slug": "utm-link-builder",
+    "title": "UTM link builder",
+    "description": "Add UTM tracking parameters to any URL and copy the finished link.",
+    "category": "SEO tools",
+    "href": "/tools/utm-link-builder"
+  },
+  {
+    "num": "19",
+    "slug": "word-counter",
+    "title": "Word counter",
+    "description": "Count words, characters, sentences and paragraphs live, with reading time and keyword density.",
+    "category": "Content tools",
+    "href": "/tools/word-counter"
+  },
+  {
+    "num": "20",
+    "slug": "qr-code-generator",
+    "title": "QR code generator",
+    "description": "Turn text or a URL into a QR code with custom colors, then download it as PNG.",
+    "category": "Utilities",
+    "href": "/tools/qr-code-generator"
+  },
+  {
+    "num": "21",
+    "slug": "password-generator",
+    "title": "Password generator",
+    "description": "Generate strong passwords with a length and character sets you choose, plus a strength meter.",
+    "category": "Utilities",
+    "href": "/tools/password-generator"
+  },
+  {
+    "num": "22",
+    "slug": "jwt-decoder",
+    "title": "JWT decoder",
+    "description": "Paste a JWT and read its header, payload and time claims without leaving your browser.",
+    "category": "Developer tools",
+    "href": "/tools/jwt-decoder"
+  },
+  {
+    "num": "23",
+    "slug": "hash-generator",
+    "title": "Hash generator",
+    "description": "Hash any text with SHA-1, SHA-256, SHA-384 and SHA-512 as you type.",
+    "category": "Developer tools",
+    "href": "/tools/hash-generator"
+  },
+  {
+    "num": "24",
+    "slug": "cron-builder",
+    "title": "Cron expression builder",
+    "description": "Build a 5-field cron schedule, read it in plain words and see its next three runs.",
+    "category": "Developer tools",
+    "href": "/tools/cron-builder"
+  },
+  {
+    "num": "25",
+    "slug": "json-to-typescript",
+    "title": "JSON to TypeScript",
+    "description": "Paste JSON and get ready-to-use TypeScript interfaces, one per nested object.",
+    "category": "Developer tools",
+    "href": "/tools/json-to-typescript"
+  },
+  {
+    "num": "26",
+    "slug": "json-csv-converter",
+    "title": "JSON CSV converter",
+    "description": "Convert an array of JSON objects to CSV and back, with comma, semicolon or tab delimiters.",
+    "category": "Developer tools",
+    "href": "/tools/json-csv-converter"
+  },
+  {
+    "num": "27",
+    "slug": "yaml-json-converter",
+    "title": "YAML JSON converter",
+    "description": "Convert YAML to JSON and JSON to YAML live, with clear parse errors.",
+    "category": "Developer tools",
+    "href": "/tools/yaml-json-converter"
+  },
+  {
+    "num": "28",
+    "slug": "text-diff",
+    "title": "Text diff",
+    "description": "Compare two texts line by line or word by word and see what was added or removed.",
+    "category": "Developer tools",
+    "href": "/tools/text-diff"
+  },
+  {
+    "num": "29",
+    "slug": "base-converter",
+    "title": "Base converter",
+    "description": "Convert a number between binary, octal, decimal, hex and any base from 2 to 36.",
+    "category": "Developer tools",
+    "href": "/tools/base-converter"
+  },
+  {
+    "num": "30",
+    "slug": "clip-path-generator",
+    "title": "Clip-path generator",
+    "description": "Clip elements into polygon, circle, ellipse or inset shapes and copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/clip-path-generator"
+  },
+  {
+    "num": "31",
+    "slug": "cubic-bezier-easing",
+    "title": "Cubic bezier easing",
+    "description": "Drag the handles of a cubic-bezier curve and copy the timing function.",
+    "category": "CSS tools",
+    "href": "/tools/cubic-bezier-easing"
+  },
+  {
+    "num": "32",
+    "slug": "flexbox-playground",
+    "title": "Flexbox playground",
+    "description": "Set flex container properties and watch the colored boxes respond live.",
+    "category": "CSS tools",
+    "href": "/tools/flexbox-playground"
+  },
+  {
+    "num": "33",
+    "slug": "css-grid-playground",
+    "title": "CSS grid playground",
+    "description": "Lay out a grid with columns, rows and gaps, then copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/css-grid-playground"
+  },
+  {
+    "num": "34",
+    "slug": "favicon-generator",
+    "title": "Favicon generator",
+    "description": "Turn one PNG, JPEG or SVG into every favicon size, plus a multi-size favicon.ico.",
+    "category": "Design tools",
+    "href": "/tools/favicon-generator"
+  },
+  {
+    "num": "35",
+    "slug": "tailwind-palette-generator",
+    "title": "Tailwind palette generator",
+    "description": "Turn one base color into a Tailwind scale from 50 to 950 that keeps its hue, built in OKLab.",
+    "category": "Design tools",
+    "href": "/tools/tailwind-palette-generator"
+  },
+  {
+    "num": "36",
+    "slug": "border-radius-generator",
+    "title": "Border radius generator",
+    "description": "Round all four corners at once or one by one, and copy the border-radius code.",
+    "category": "CSS tools",
+    "href": "/tools/border-radius-generator"
+  },
+  {
+    "num": "37",
+    "slug": "text-shadow-generator",
+    "title": "Text shadow generator",
+    "description": "Tune offset, blur and color for a text shadow with live preview, then copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/text-shadow-generator"
+  },
+  {
+    "num": "38",
+    "slug": "css-filter-generator",
+    "title": "CSS filter generator",
+    "description": "Stack blur, brightness, contrast and color filters on a test card, then copy the CSS.",
+    "category": "CSS tools",
+    "href": "/tools/css-filter-generator"
+  },
+  {
+    "num": "39",
+    "slug": "image-compressor",
+    "title": "Image compressor",
+    "description": "Shrink PNG, JPEG or WebP images in your browser with control over quality, size and format.",
+    "category": "Design tools",
+    "href": "/tools/image-compressor"
+  },
+  {
+    "num": "40",
+    "slug": "image-resizer",
+    "title": "Image resizer",
+    "description": "Resize any image to exact pixel dimensions, with the aspect ratio locked or free.",
+    "category": "Design tools",
+    "href": "/tools/image-resizer"
+  },
+  {
+    "num": "41",
+    "slug": "serp-preview",
+    "title": "Google result preview",
+    "description": "Draft your title and description and see them as a Google result, on desktop and mobile.",
+    "category": "SEO tools",
+    "href": "/tools/serp-preview"
+  },
+  {
+    "num": "42",
+    "slug": "sitemap-generator",
+    "title": "Sitemap generator",
+    "description": "Turn a list of URLs into a valid sitemap.xml you can copy or download.",
+    "category": "SEO tools",
+    "href": "/tools/sitemap-generator"
+  },
+  {
+    "num": "43",
+    "slug": "robots-txt-generator",
+    "title": "robots.txt generator",
+    "description": "Build allow and disallow rules for each crawler and get a ready robots.txt.",
+    "category": "SEO tools",
+    "href": "/tools/robots-txt-generator"
+  },
+  {
+    "num": "44",
+    "slug": "json-ld-generator",
+    "title": "JSON-LD generator",
+    "description": "Fill a short form and get schema.org JSON-LD ready to paste into your page.",
+    "category": "SEO tools",
+    "href": "/tools/json-ld-generator"
+  },
+  {
+    "num": "45",
+    "slug": "case-converter",
+    "title": "Case converter",
+    "description": "Rewrite text as lower, UPPER, Title Case, camelCase, snake_case and more.",
+    "category": "Content tools",
+    "href": "/tools/case-converter"
+  },
+  {
+    "num": "46",
+    "slug": "markdown-table-generator",
+    "title": "Markdown table generator",
+    "description": "Paste CSV or TSV data, or build the table by hand, then copy the Markdown.",
+    "category": "Content tools",
+    "href": "/tools/markdown-table-generator"
+  },
+  {
+    "num": "47",
+    "slug": "html-entity-encoder",
+    "title": "HTML entity encoder",
+    "description": "Turn special characters into HTML entities, or decode them back to plain text.",
+    "category": "Content tools",
+    "href": "/tools/html-entity-encoder"
+  },
+  {
+    "num": "48",
+    "slug": "slug-generator",
+    "title": "Slug generator",
+    "description": "Turn any title into a clean URL slug that keeps letters of every script.",
+    "category": "Content tools",
+    "href": "/tools/slug-generator"
+  },
+  {
+    "num": "49",
+    "slug": "timestamp-converter",
+    "title": "Timestamp converter",
+    "description": "Convert Unix epochs to ISO, local and UTC time, or turn a date back into an epoch.",
+    "category": "Utilities",
+    "href": "/tools/timestamp-converter"
+  },
+  {
+    "num": "50",
+    "slug": "timezone-converter",
+    "title": "Time zone converter",
+    "description": "Convert a date and time between any two zones and see it across common cities.",
+    "category": "Utilities",
+    "href": "/tools/timezone-converter"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "slug": "unbraid",
+    "title": "unbraid",
+    "description": "An open source CLI and VS Code extension that untangles a messy working tree into clean, atomic commits with AI-written messages, and lets you review every group before anything is committed.",
+    "stacks": [
+      "TypeScript",
+      "Node.js",
+      "Git",
+      "Claude",
+      "VS Code Extension"
+    ],
+    "client": null,
+    "year": 2026,
+    "featured": true,
+    "index": 0
+  },
+  {
+    "slug": "clawhome",
+    "title": "ClawHome",
+    "description": "A self-hosted, all-in-one personal dashboard running on a Mac Mini that brings together smart home control, personal finance tracking, system monitoring, AI-powered conversation, automation, and spiritual routines into a single, unified interface.",
+    "stacks": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Python",
+      "PostgreSQL"
+    ],
+    "client": null,
+    "year": 2026,
+    "featured": true,
+    "index": 1
+  },
+  {
+    "slug": "workmates",
+    "title": "WorkMates",
+    "description": "WorkMates connects remote workers and digital nomads, helping you to find and create co-working sessions at cafes and public spaces. Build meaningful connections with like-minded professionals and grow your remote work community wherever you are.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "Firebase",
+      "NextAuth",
+      "Prisma",
+      "SWR",
+      "Tailwind CSS",
+      "PostHog",
+      "PWA",
+      "OpenStreetMap"
+    ],
+    "client": null,
+    "year": 2025,
+    "featured": true,
+    "index": 2
+  },
+  {
+    "slug": "aulianza-com",
+    "title": "aulianza.com",
+    "description": "Personal website built with Next.js 16 App Router, TypeScript and Tailwind CSS.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": true,
+    "index": 3
+  },
+  {
+    "slug": "pomoro",
+    "title": "Pomoro",
+    "description": "Simple Pomodoro and Todo List App built with Next.js, TS, Tailwind CSS and Zustand.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": true,
+    "index": 4
+  },
+  {
+    "slug": "aulianza-next-tailwind-starter",
+    "title": "Next + Tailwind Starter Template",
+    "description": "Next.js + TS + Tailwind CSS starter template packed with useful development features.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": true,
+    "index": 5
+  },
+  {
+    "slug": "flexcode-v1",
+    "title": "FlexCode Company Profile",
+    "description": "A company profile website of PT Flexcode Space Teknologi.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "client": "PT FlexCode Space Teknologi",
+    "year": 2023,
+    "featured": false,
+    "index": 6
+  },
+  {
+    "slug": "aulianza-id",
+    "title": "(v1) aulianza.com",
+    "description": "Previously was aulianza.id. Personal website was built originally from scratch using several powerful stacks.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS",
+      "Prisma",
+      "Firebase"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": false,
+    "index": 7
+  },
+  {
+    "slug": "vite-react-starter",
+    "title": "Vite + React Starter Template",
+    "description": "Vite + React + TypeScript + Tailwind CSS starter template.",
+    "stacks": [
+      "Vite",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": false,
+    "index": 8
+  },
+  {
+    "slug": "pln-dispatcher",
+    "title": "PLN Log Dispatcher",
+    "description": "Log platform developed for PT PLN (Persero) UP2B Central Java & DIY.",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "Material UI"
+    ],
+    "client": "PT PLN (Persero)",
+    "year": 2023,
+    "featured": false,
+    "index": 9
+  },
+  {
+    "slug": "mitech-career",
+    "title": "Mitech Career Platfrom",
+    "description": "A platform where you can find job opportunities at Mitech company.",
+    "stacks": [
+      "Laravel",
+      "Bootstrap",
+      "MySQL",
+      "PHP"
+    ],
+    "client": "PT Mandiri International Technology",
+    "year": 2023,
+    "featured": false,
+    "index": 10
+  },
+  {
+    "slug": "mitech-landing",
+    "title": "Mitech Company Profile",
+    "description": "Official website of Mitech, PT Mandiri International Technology. ",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Mandiri International Technology",
+    "year": 2023,
+    "featured": false,
+    "index": 11
+  },
+  {
+    "slug": "aulianza-blog",
+    "title": "Aulianza Blog",
+    "description": "My personal blog, a directory of wonderful things.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": null,
+    "year": 2023,
+    "featured": false,
+    "index": 12
+  },
+  {
+    "slug": "emerge",
+    "title": "eMerge Dashboard",
+    "description": "Indonesia-focused Angel Investment Network Dashboard.",
+    "stacks": [
+      "Laravel",
+      "Bootstrap",
+      "MySQL",
+      "PHP"
+    ],
+    "client": "MDI Ventures",
+    "year": 2022,
+    "featured": false,
+    "index": 13
+  },
+  {
+    "slug": "linktree-clone",
+    "title": "Linktree Clone",
+    "description": "Linktree Clone built with React and Emotion Styled.",
+    "stacks": [
+      "JavaScript",
+      "React.js",
+      "TailwindCSS"
+    ],
+    "client": null,
+    "year": 2021,
+    "featured": false,
+    "index": 14
+  },
+  {
+    "slug": "pokemon-app",
+    "title": "Pokemon Web App",
+    "description": "A pokemon list app allows view and catch the Pokemon.",
+    "stacks": [
+      "JavaScript",
+      "React.js",
+      "GraphQL",
+      "Apollo",
+      "Emotion"
+    ],
+    "client": null,
+    "year": 2021,
+    "featured": false,
+    "index": 15
+  },
+  {
+    "slug": "kpn-ticketing",
+    "title": "KPN Ticketing System",
+    "description": "A modern and new generation helpdesk system of PT AMS Teknologi.",
+    "stacks": [
+      "Nuxt.js",
+      "Vue.js",
+      "Bootstrap"
+    ],
+    "client": "PT Gama Plantation",
+    "year": 2020,
+    "featured": false,
+    "index": 16
+  },
+  {
+    "slug": "uilis",
+    "title": "UILIS Mobile App",
+    "description": "Syiah Kuala University OPAC and library lending application.",
+    "stacks": [
+      "Angular"
+    ],
+    "client": "Syiah Kuala University",
+    "year": 2019,
+    "featured": false,
+    "index": 17
+  },
+  {
+    "slug": "elfsebandung",
+    "title": "elfsebandung.com",
+    "description": "A company profile website of PT Geulis Travel Indonesia.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Geulis Travel Indonesia",
+    "year": 2017,
+    "featured": false,
+    "index": 18
+  },
+  {
+    "slug": "geulisindonesia",
+    "title": "geulisindonesia.com",
+    "description": "A company profile website of PT Geulis Travel Indonesia.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": null,
+    "year": 2017,
+    "featured": false,
+    "index": 19
+  },
+  {
+    "slug": "aichitrainingcenter",
+    "title": "aichitrainingcenter.com",
+    "description": "A company profile website of AichiTraining Center.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": null,
+    "year": 2017,
+    "featured": false,
+    "index": 20
+  },
+  {
+    "slug": "british-propolis",
+    "title": "britishpropolis.com",
+    "description": "A landing page of British Propolis Indonesia Bee Pro products.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": null,
+    "year": 2017,
+    "featured": false,
+    "index": 21
+  },
+  {
+    "slug": "acehtouring",
+    "title": "acehtouring.com",
+    "description": "A company profile website of PT Kuala Nanggroe Kita Tour & Travel.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Kuala Nanggroe Kita Tour & Travel",
+    "year": 2017,
+    "featured": false,
+    "index": 22
+  },
+  {
+    "slug": "athayaglobal",
+    "title": "athayaglobal.com",
+    "description": "A company profile website of PT Athaya Global Indonesia.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Athaya Global Indonesia",
+    "year": 2017,
+    "featured": false,
+    "index": 23
+  },
+  {
+    "slug": "dhahab",
+    "title": "dhahab.co.id",
+    "description": "A company profile website of PT Dhahab Tour WIsata.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Dhahab Tour Wisata",
+    "year": 2017,
+    "featured": false,
+    "index": 24
+  },
+  {
+    "slug": "elfdibandung",
+    "title": "elfdibandung.com",
+    "description": "A company profile website of PT Geulis Travel Indonesia.",
+    "stacks": [
+      "WordPress",
+      "Bootstrap",
+      "PHP"
+    ],
+    "client": "PT Geulis Travel Indonesia",
+    "year": 2017,
+    "featured": false,
+    "index": 25
+  }
+]

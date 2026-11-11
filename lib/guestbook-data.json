@@ -1,0 +1,842 @@
+[
+  {
+    "date": "Monday, September 18, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "12:06 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIjsKBuWPcUdxFW66kC4TYrCR2IaT5YVUmQNcsvvXgmw=s96-c",
+    "message": "Hello everyone! Thanks for visiting my website. Please leave whatever you like to say, like suggestions, appreciation, question or anything here!"
+  },
+  {
+    "date": "Monday, September 18, 2023",
+    "name": "drian pratama",
+    "isOwner": false,
+    "time": "4:16 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIhipcPSC0T7hJqvifGK3YctMRup-Wdk4JaCLZSV-du4Q=s96-c",
+    "message": "Awesome website"
+  },
+  {
+    "date": "Monday, September 18, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "4:33 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIjsKBuWPcUdxFW66kC4TYrCR2IaT5YVUmQNcsvvXgmw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@drian pratama </span> Thanks! If you have any suggestions, feel free to share. Your input is valuable!"
+  },
+  {
+    "date": "Thursday, September 21, 2023",
+    "name": "Muhammad rizky kusyon",
+    "isOwner": false,
+    "time": "6:04 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKhY5CnabOJYS3rGyKRaOJ2RrVq5ImYsoN8MgVqRPLQO8k=s96-c",
+    "message": "the best UI I've ever seen, amazing!"
+  },
+  {
+    "date": "Thursday, September 21, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "7:43 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIjsKBuWPcUdxFW66kC4TYrCR2IaT5YVUmQNcsvvXgmw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Muhammad rizky kusyon </span> thanks!"
+  },
+  {
+    "date": "Friday, September 22, 2023",
+    "name": "saman sayyar",
+    "isOwner": false,
+    "time": "1:57 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIRiWrlc_gsv1e7UZJWGA52A-9_kb7S9VHXxuDPCVd0lZU=s96-c",
+    "message": "Hello"
+  },
+  {
+    "date": "Friday, September 22, 2023",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "You have made a very attractive website.☺️"
+  },
+  {
+    "date": "Friday, September 22, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "8:54 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIjsKBuWPcUdxFW66kC4TYrCR2IaT5YVUmQNcsvvXgmw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@saman sayyar </span> Hello! thank  you 🔥"
+  },
+  {
+    "date": "Friday, September 22, 2023",
+    "name": "akun belajar dzaky",
+    "isOwner": false,
+    "time": "8:19 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL0LWo6QMarMiEfqKz9m2TWwErp5UeU9blNFT_QqYO2jQ=s96-c",
+    "message": "hello"
+  },
+  {
+    "date": "Friday, September 22, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "8:41 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIjsKBuWPcUdxFW66kC4TYrCR2IaT5YVUmQNcsvvXgmw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@akun belajar dzaky </span> hello dzaky!"
+  },
+  {
+    "date": "Sunday, September 24, 2023",
+    "name": "AKHRIB ABDERAHMANE",
+    "isOwner": false,
+    "time": "6:07 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL8oU2c6kfch5b3qhDfkz9WH9xDjc5RIJVCUDgskwMoqNs=s96-c",
+    "message": "Hi i hope you are doing well i just wanted to say that your portfolie is the most perfect thing i have evr seen  &gt;&gt;&gt;"
+  },
+  {
+    "date": "Sunday, September 24, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "8:49 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIiEfcHUTiloHzYtqJ4mBn3Ty5YmVf1RgGMoYzA3XpqHQ=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@AKHRIB ABDERAHMANE </span> I’m absolutely flattered! Thank you for the wonderful feedback on my portfolio."
+  },
+  {
+    "date": "Tuesday, November 14, 2023",
+    "name": "Hafhis Gustiawan",
+    "isOwner": false,
+    "time": "9:14 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKmn2iIuhoRP8jD7a38WsJhYLIXTi1jF7SRMnGA-AIMZ74=s96-c",
+    "message": "Very nice animations 🔥"
+  },
+  {
+    "date": "Tuesday, November 14, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "11:29 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Hafhis Gustiawan</span> Thankyou 🔥"
+  },
+  {
+    "date": "Thursday, November 16, 2023",
+    "name": "drian pratama",
+    "isOwner": false,
+    "time": "10:26 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIhipcPSC0T7hJqvifGK3YctMRup-Wdk4JaCLZSV-du4Q=s96-c",
+    "message": "Bagaimana cara konsisten dalam mempelajari koding menurut mas ryan"
+  },
+  {
+    "date": "Friday, November 17, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "5:33 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@drian pratama</span> Pertama, atur jadwal yang tetap buat belajar setiap hari atau beberapa kali seminggu. Trus, tentuin tujuanmu, yang pendek dan yang lebih jauh, biar ada arah yang jelas. Carilah sumber belajar yang cocok buat kamu, bisa dari buku, kursus online, atau video tutorial. Jangan lupa latihan terus ya, praktek itu penting banget. Di samping itu, gabung juga sama komunitas, bisa nanya dan sharing pengalaman. Yang paling utama sih, jangan nyerah dan tetep konsisten. Kalo butuh istirahat, ya istirahat. Pokoknya, jangan terlalu keras sama diri sendiri, dan terus evaluasi kemajuanmu. Semangat!"
+  },
+  {
+    "date": "Sunday, December 3, 2023",
+    "name": "Hossein Pira",
+    "isOwner": false,
+    "time": "2:06 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIjLDe6sQxlS5RMKuglltuJ8cC7KxpzmPpgIS26piWm=s96-c",
+    "message": "wow"
+  },
+  {
+    "date": "Thursday, December 7, 2023",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "5:16 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Hossein Pira </span> Hi!"
+  },
+  {
+    "date": "Wednesday, January 3, 2024",
+    "name": "Kevin AdikaSaputra",
+    "isOwner": false,
+    "time": "9:27 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlxCxWWU9rZ_H2QK5On5iQCaa_TLBJmRwGxXPlceCS=s96-c",
+    "message": "hii mr ryan."
+  },
+  {
+    "date": "Tuesday, January 9, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:33 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Kevin AdikaSaputra</span> Hi Kevin!"
+  },
+  {
+    "date": "Thursday, February 1, 2024",
+    "name": "reefai za",
+    "isOwner": false,
+    "time": "5:52 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKf-7ylkMZxPTqMtuxWxyEhAD3xXlSx2KiLpm66K40k=s96-c",
+    "message": "Hi"
+  },
+  {
+    "date": "Wednesday, February 7, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "5:06 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@reefeaiza</span> Hi reefai za!"
+  },
+  {
+    "date": "Friday, February 9, 2024",
+    "name": "Malek Gara-Hellal",
+    "isOwner": false,
+    "time": "4:00 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocID7kWkeHehItfBy2rrk_W7wGHdfDtfPq52PdabLHAhBAg=s96-c",
+    "message": "I like your portfolio, check mine https://www.findmalek.com/"
+  },
+  {
+    "date": "Wednesday, February 14, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "3:33 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Malek Gara-Hellal</span> Thankyou! thats amazing"
+  },
+  {
+    "date": "Wednesday, February 14, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@faisal tariq</span> Thanks bro!"
+  },
+  {
+    "date": "Monday, February 19, 2024",
+    "name": "Hello Faizan",
+    "isOwner": false,
+    "time": "9:12 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgDRpK5bLn_aNFy2OrP_3lIkaerTZWT2OKhUCGtkB8LQ=s96-c",
+    "message": "Sick Portfolio 🔥🔥"
+  },
+  {
+    "date": "Tuesday, February 20, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:38 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Hello Faizan</span> thanks broo🔥🔥"
+  },
+  {
+    "date": "Wednesday, February 28, 2024",
+    "name": "Gaurav Sarage",
+    "isOwner": false,
+    "time": "5:48 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKgOSPUR7KovRNzCvEnbxXhaNlDXf-_bJxpGJ8jHZ786A=s96-c",
+    "message": "Amazing portfolio! 🔥🔥"
+  },
+  {
+    "date": "Saturday, March 2, 2024",
+    "name": "Tytan Cool",
+    "isOwner": false,
+    "time": "5:29 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIOQVLUC3_0liKFlZi4icrMs2R7YUDrfV59bMNKgfussw=s96-c",
+    "message": "Hello, how do i setup the blog on the portfolio?"
+  },
+  {
+    "date": "Tuesday, March 12, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "3:16 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Gaurav Sarage</span> Thanks !"
+  },
+  {
+    "date": "Tuesday, March 12, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "Hi <span class=\"font-bold text-[#ffc24d]\">@Tytan-Codes-Alt</span>, my blog is integrated with a WordPress blog hosted on my server. So, to start writing articles on the blog, I simply write them on my WordPress blog. Then, on my website, they are automatically fetched via the WordPress API and displayed on my blog pages."
+  },
+  {
+    "date": "Friday, March 15, 2024",
+    "name": "Abdulla Al Shahid (ZEN)",
+    "isOwner": false,
+    "time": "2:40 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIN044PMF5oRwFF9cr5XYnvM34l9qhx255Hh2TojPM7aIY=s96-c",
+    "message": "nice portfolio"
+  },
+  {
+    "date": "Friday, March 15, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "11:31 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Abdulla Al Shahid (ZEN)</span> Thanks"
+  },
+  {
+    "date": "Saturday, March 23, 2024",
+    "name": "Malik Bagwala",
+    "isOwner": false,
+    "time": "11:15 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLm4_71ttUnh0478TtOQ48A8ubZLpx7_6kyMJPVfctjUdwJ=s96-c",
+    "message": "This is a great website"
+  },
+  {
+    "date": "Monday, April 1, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "3:58 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Malik Bagwala</span> thanks!"
+  },
+  {
+    "date": "Tuesday, April 9, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "2:11 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Muhammad Wafi</span> Hi wafi!"
+  },
+  {
+    "date": "Friday, April 12, 2024",
+    "name": "Seghir Issam",
+    "isOwner": false,
+    "time": "3:52 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIlCO7YQsZUK8_YYrDjJ9Cw-mcuG_cZP-ueOwCHtjaFkHJNX3wH1Q=s96-c",
+    "message": "nice , clean , modern , smoth animations  , this is the perfect portfolio and  exactly what I've been searching for  💖"
+  },
+  {
+    "date": "Monday, April 15, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "1:04 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Seghir Issam</span> Thanks!"
+  },
+  {
+    "date": "Wednesday, April 17, 2024",
+    "name": "Jody Yuantoro",
+    "isOwner": false,
+    "time": "1:21 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJLPWucJVG2w7L8uX2m-H0d2wFuoFm64pTAmIIVLZZRiMgHtt0S=s96-c",
+    "message": "very fluent and smooth &lt;3"
+  },
+  {
+    "date": "Monday, April 22, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "8:05 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJeRneuiKBBVzPHaBnAi3Ctg6cF0kpVnYtaECzeCI8_nw=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Jody Yuantoro</span> thanks"
+  },
+  {
+    "date": "Sunday, May 5, 2024",
+    "name": "faisal tariq",
+    "isOwner": false,
+    "time": "6:21 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKk4CFq4YMAX9Y7o2TH-Jlz6R5SttcGU7EKkHyA4eiPCcE_1D_H=s96-c",
+    "message": "@Ryan Aulia good work mate!"
+  },
+  {
+    "date": "Monday, May 6, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "9:32 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL9dROX9mBOYMsLpnoUk4Fs0A9NrWXsVXO8uNYfb98MgviFovg=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@faisal tariq</span> thanks bro!"
+  },
+  {
+    "date": "Wednesday, May 8, 2024",
+    "name": "zilong zhao",
+    "isOwner": false,
+    "time": "3:06 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKP-BLKjez3BC96BLbb1_IYGu11iwW8zE5pPyyQFV1YPPYQxA=s96-c",
+    "message": "Hi Ryan, this website is really amazing. I am a react beginner. If you don't mind, I would like to learn from your style and implement my own profile website."
+  },
+  {
+    "date": "Wednesday, May 8, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "I really like your website style, and I hope to become a react &amp; next expert by cloning some of functions of this website"
+  },
+  {
+    "date": "Wednesday, May 8, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "3:57 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL9dROX9mBOYMsLpnoUk4Fs0A9NrWXsVXO8uNYfb98MgviFovg=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@zilong zhao</span> Hi! Thank you so much for your kind words! I'm really glad you like the website. Of course!"
+  },
+  {
+    "date": "Wednesday, May 8, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@zilong zhao</span> That sounds like a great way to learn! Feel free to clone any functions you find useful. If you have any questions or need advice, just reach out. Good luck!"
+  },
+  {
+    "date": "Friday, May 17, 2024",
+    "name": "Who Care",
+    "isOwner": false,
+    "time": "7:26 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2crQES4_aFr3Fj0trIHRWjF6QGK1O3cyaRMvO2A_Hmqgq7w=s96-c",
+    "message": "wow"
+  },
+  {
+    "date": "Saturday, June 15, 2024",
+    "name": "Harshit Jaiswal",
+    "isOwner": false,
+    "time": "6:30 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKlofR5aScVoNQTE1LhzpS-koeHuwAnK7udlc5cVPsvls5E4qAy=s96-c",
+    "message": "i want to make same portfolio website . coud you share your code"
+  },
+  {
+    "date": "Wednesday, June 19, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:06 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL9dROX9mBOYMsLpnoUk4Fs0A9NrWXsVXO8uNYfb98MgviFovg=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Harshit Jaiswal</span> just check it out on my github bro"
+  },
+  {
+    "date": "Friday, June 28, 2024",
+    "name": "Generasi Creative Indonesia",
+    "isOwner": false,
+    "time": "5:35 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ24DmKCjqPr91Spgme7-Pqx4HTfHXGX3TsOkIpn5QuBZVb9TpR=s96-c",
+    "message": "ฉันชอบสไตล์เว็บไซต์ของคุณมาก และฉันหวังว่าจะเป็นผู้เชี่ยวชาญในการโต้ตอบและคนต่อไปโดยการโคลนฟังก์ชันบางอย่างของเว็บไซต์นี้"
+  },
+  {
+    "date": "Monday, July 8, 2024",
+    "name": "Swanand Wagh",
+    "isOwner": false,
+    "time": "5:13 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIztZ-2zOxy-8CqRB-2V3w1viFUusEQXgPsPhL9j9xhSo4ezx5M1w=s96-c",
+    "message": "great job"
+  },
+  {
+    "date": "Wednesday, July 10, 2024",
+    "name": "Amr Alsaidy",
+    "isOwner": false,
+    "time": "3:03 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI-7KdoZctGoW9aytlMmhM18f0DwNNqh2mdVkYFgvF2h9cr9zM=s96-c",
+    "message": "Ujj"
+  },
+  {
+    "date": "Sunday, July 28, 2024",
+    "name": "Harshit Jaiswal",
+    "isOwner": false,
+    "time": "2:56 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKsx6D_WzCEbY9CAVwQGbH_JW8b2lqlb3XCus7sNgex0g2H4wtM=s96-c",
+    "message": "@Ryan Aulia i forked it in my github then tried to deploy in vercel but it not happening"
+  },
+  {
+    "date": "Tuesday, July 30, 2024",
+    "name": "Agung Mahesa",
+    "isOwner": false,
+    "time": "9:10 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIT3774VUldsHKhoxhSIFPpUcvP0E4XtfIshCb052VXpEEZsA=s96-c",
+    "message": "Infokan source nya kak"
+  },
+  {
+    "date": "Wednesday, September 11, 2024",
+    "name": "Yasir Nawaz",
+    "isOwner": false,
+    "time": "7:47 PM",
+    "avatar": "https://avatars.githubusercontent.com/u/94890956?v=4",
+    "message": "This is really amazing website, great work Ryan"
+  },
+  {
+    "date": "Saturday, September 21, 2024",
+    "name": "I'm Hacker",
+    "isOwner": false,
+    "time": "5:27 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL4m3ZYi79xy2vLVheML7Ym2e5CIMguBQPrtjOIiTb06AXDKhU=s96-c",
+    "message": "nice website )"
+  },
+  {
+    "date": "Monday, September 23, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:16 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@harshit jaiswal</span> make sure your environment is configured correctly"
+  },
+  {
+    "date": "Monday, September 23, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Swanand Wagh </span> thanks!"
+  },
+  {
+    "date": "Monday, September 23, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Agung Mahesa </span> cek github"
+  },
+  {
+    "date": "Monday, September 23, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Yasir Nawaz </span> Thanks a lot! glad you liked it!"
+  },
+  {
+    "date": "Monday, September 23, 2024",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@I'm Hacker </span> thanks!"
+  },
+  {
+    "date": "Tuesday, November 19, 2024",
+    "name": "Muhamad Afghan Alzena",
+    "isOwner": false,
+    "time": "12:19 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKnhiValISagnVK6WPLEiK7eXX-1F4wE7pXyiBj8Yb_DWXfLgg=s96-c",
+    "message": "Keren mas, btw tempat untuk hosting wordpressnya dimana ya mas??"
+  },
+  {
+    "date": "Wednesday, November 20, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "7:02 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Muhamad Afghan Alzena</span> digitalocean mas"
+  },
+  {
+    "date": "Sunday, December 8, 2024",
+    "name": "Ilhan Awafi",
+    "isOwner": false,
+    "time": "6:00 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIUQ4gixCmzvEANnFWlsLtzQ2aIcPNkgy5ZbXfdiHAfLsDBUA=s96-c",
+    "message": "keren banget mas, ijin clone porto nya yaa mas ryan, terimakasi mas"
+  },
+  {
+    "date": "Monday, December 9, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:06 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Ilhan Awafi</span> gasskan"
+  },
+  {
+    "date": "Sunday, December 29, 2024",
+    "name": "Ranimo Bot Dev",
+    "isOwner": false,
+    "time": "9:30 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK7ApOQcITBbLKrKZjyb6uwbKZNS-j_O2XVG4-_W12d3GZt8dY=s96-c",
+    "message": "Portofolionya keren banget! Saya tertarik untuk clone repo-nya dan menggunakan templatenya untuk project pribadi saya. Mohon izin ya, semoga tidak keberatan.  Terima kasih banyak sebelumnya!"
+  },
+  {
+    "date": "Tuesday, December 31, 2024",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:10 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Ranimo Bot Dev</span> okey gass"
+  },
+  {
+    "date": "Wednesday, February 19, 2025",
+    "name": "admin coollabapp",
+    "isOwner": false,
+    "time": "4:42 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJZNSJsWIErJWh-twJqMflzNkXLbO2ohFBrAYcJtk4vG4dTOw=s96-c",
+    "message": "hai ryan gimana mau tambah project ya dalam project section"
+  },
+  {
+    "date": "Wednesday, February 19, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "6:03 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@admin coollabapp </span> dari database ya"
+  },
+  {
+    "date": "Thursday, February 20, 2025",
+    "name": "admin coollabapp",
+    "isOwner": false,
+    "time": "9:50 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJZNSJsWIErJWh-twJqMflzNkXLbO2ohFBrAYcJtk4vG4dTOw=s96-c",
+    "message": "masukkin guna csv ke kak?"
+  },
+  {
+    "date": "Thursday, February 20, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "kak punya documentation gak gimana mau setupnya"
+  },
+  {
+    "date": "Thursday, February 20, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "aku bingung soalanya pada blog enggak keluar apa ii"
+  },
+  {
+    "date": "Thursday, February 20, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "kak punya template untuk project nya"
+  },
+  {
+    "date": "Saturday, March 15, 2025",
+    "name": "Manthan Bhosale",
+    "isOwner": false,
+    "time": "1:54 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL_HDj-uLY6FcVrHsBB3Js4H9KIJN1G3oqAqPVfkbRPH8Fn5HQ=s96-c",
+    "message": "Love the website man, looks amazing."
+  },
+  {
+    "date": "Monday, March 17, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "1:40 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@admin coollabapp</span> maksud?"
+  },
+  {
+    "date": "Monday, March 17, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Manthan Bhosale</span> thanks man!"
+  },
+  {
+    "date": "Thursday, April 3, 2025",
+    "name": "Yoseph",
+    "isOwner": false,
+    "time": "5:40 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLSkL9J-wmTC_aC_sx9Dg4fQmsgbja9aL5Hbki1yz3cGbcODw=s96-c",
+    "message": "hai ryan, ini dev.to apakah juga untuk blog ? apa bisa ditampilkan source blog dari dev.to dan wordpress bersamaan untuk blog ?"
+  },
+  {
+    "date": "Monday, April 7, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "10:50 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Yoseph</span> bisa kok, nanti tinggal di combine aja"
+  },
+  {
+    "date": "Monday, April 28, 2025",
+    "name": "Viviane Novie",
+    "isOwner": false,
+    "time": "4:00 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKbH4MXIshC3B0i4nxPgVHQKQmZ_kacCRKGYAqzSDmYteyHeLs=s96-c",
+    "message": "halo min mau tanya butuh budget brapa untuk buat blog sepert ini min"
+  },
+  {
+    "date": "Thursday, May 1, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "7:30 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Viviane Novie</span> Free kok"
+  },
+  {
+    "date": "Sunday, May 4, 2025",
+    "name": "Viviane Novie",
+    "isOwner": false,
+    "time": "9:19 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKbH4MXIshC3B0i4nxPgVHQKQmZ_kacCRKGYAqzSDmYteyHeLs=s96-c",
+    "message": "saya mau buat website min gimana cara hubungin nya min untuk konsultasi"
+  },
+  {
+    "date": "Sunday, May 25, 2025",
+    "name": "Noah Dave",
+    "isOwner": false,
+    "time": "6:23 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIoFkymLhRCKsvUvLGpFok-fbKSWsMbsY8F3r4QivfbUTn-Y08=s96-c",
+    "message": "An amazing portfolio"
+  },
+  {
+    "date": "Saturday, May 31, 2025",
+    "name": "Ixtiyor Komiljonov",
+    "isOwner": false,
+    "time": "11:15 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLV95NhqgnV7XMIyWVAFCVPt2sf1nBwhCBAfUAKy5PGk2e4Wzo=s96-c",
+    "message": "Can we use this wonderful portfolio too?"
+  },
+  {
+    "date": "Sunday, June 1, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "11:44 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Noah Dave</span> thanks!"
+  },
+  {
+    "date": "Sunday, June 1, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Ixtiyor Komiljonov</span> sure!"
+  },
+  {
+    "date": "Tuesday, July 22, 2025",
+    "name": "Developer Tuan Duc",
+    "isOwner": false,
+    "time": "1:34 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLn8a82EmzRNpYioZnb9xUbG63D1MSXSCnFHX7AMjMf3NPfWI_T=s96-c",
+    "message": "hey"
+  },
+  {
+    "date": "Tuesday, August 19, 2025",
+    "name": "ARUNABH PRIYADARSHI",
+    "isOwner": false,
+    "time": "11:10 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL_T3AWyH9gNdd43rrEWwSOWB63NDZLZfhgAqCL7pceILP8yXDNrw=s96-c",
+    "message": "Love from india"
+  },
+  {
+    "date": "Tuesday, August 19, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "I will soon implement this feature on my website"
+  },
+  {
+    "date": "Tuesday, August 19, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "shit + enter shall not send a message but allow me to move to next line (just a suggestion)"
+  },
+  {
+    "date": "Thursday, August 21, 2025",
+    "name": "rohit bind",
+    "isOwner": false,
+    "time": "3:46 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJZGdSqcxMSFEdIQkHxjZTVXV4PrHNToAYe5DtOgGZwEd2dsas=s96-c",
+    "message": "Hey, I’ve created a similar site inspired by your design. I’ve given you credit and would love to hear your thoughts. I’m still working on it, but it’s somewhat finished: https://rohitsx.vercel.app/"
+  },
+  {
+    "date": "Saturday, September 13, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "8:06 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@ARUNABH PRIYADARSHI</span> thanks for the feedback!"
+  },
+  {
+    "date": "Saturday, September 13, 2025",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@rohit bind</span> looks amazing!"
+  },
+  {
+    "date": "Monday, December 22, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "12:46 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "Hi! welcome to my new website!"
+  },
+  {
+    "date": "Thursday, December 25, 2025",
+    "name": "Pelanggan Discord",
+    "isOwner": false,
+    "time": "9:28 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL-ZseDnAYExwwenguqjBGPlKPwm6sFflymjSXZGsu1cgQKWw=s96-c",
+    "message": "Mas @Ryan Aulia, website portofolio yang baru gratis kah?"
+  },
+  {
+    "date": "Friday, December 26, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "9:07 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "Halo <span class=\"font-bold text-[#ffc24d]\">@Pelanggan Discord</span> untuk yang ini saya belum open source ya mas"
+  },
+  {
+    "date": "Friday, December 26, 2025",
+    "name": "Muhammad Rizky",
+    "isOwner": false,
+    "time": "1:38 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXTk8XwQrftbBfd61aRmAAq2MFppOKxs-Na555lSyJ7pYoy1wF=s96-c",
+    "message": "Awesome portfolio🙌. Izin saya jadikan referensi ya bang hehe"
+  },
+  {
+    "date": "Monday, December 29, 2025",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "7:44 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Muhammad Rizky</span> siapp gasskan"
+  },
+  {
+    "date": "Monday, January 5",
+    "name": "astri yulianti",
+    "isOwner": false,
+    "time": "3:38 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKDeAtfYWS1x10qGvtFWbf9YJDVZsDNCKpizt7Zs7V48cFYc7v-=s96-c",
+    "message": "Amazing website 👏🏻"
+  },
+  {
+    "date": "Friday, January 23",
+    "name": "Ridwan Halim",
+    "isOwner": false,
+    "time": "11:19 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKE4FE4qk8F-fk4XQ0oQUuINa8_xe_zKCvYvXrRlGE1_HOrdAWl=s96-c",
+    "message": "loh, udah update aja websitenya. btw website yang dulu saya jadiin referensi ya mas buat web portfolio saya start from 0 (Django) di https://ridwaanhall.com, kredit ada di privacy. boleh diberi masukan ya mas. thanks"
+  },
+  {
+    "date": "Monday, January 26",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "9:36 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2By23o7FGT87XgUcA2-ApLUSGayy4oGKKK6LYmJeqYxkDaF0_=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@astri yulianti</span> ❤️"
+  },
+  {
+    "date": "Monday, January 26",
+    "name": "",
+    "isOwner": false,
+    "time": "",
+    "avatar": "",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Ridwan Halim</span> haha iya mas udah 3 tahun harus di update.. wah mantap siap mas"
+  },
+  {
+    "date": "Friday, July 24",
+    "name": "Upgrade Skills",
+    "isOwner": false,
+    "time": "11:12 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIYTnDKf_4ipxVq0_RtU6Erf0_KJjj1nf2F4_1GbPCsc_y1wg=s96-c",
+    "message": "p"
+  },
+  {
+    "date": "Saturday, October 31",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "12:00 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJWM9QB9JpEm5l70EwN7efihJPH3lcIH9EPzCKFWPl76FmSQppL=s96-c",
+    "message": "Hi guys. leave your comment here! thanks."
+  },
+  {
+    "date": "Tuesday, November 3",
+    "name": "Azzahra Rizki Sulardi Trisnawati",
+    "isOwner": false,
+    "time": "8:27 PM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXFI26oflb8RVbZk2Ab5W76eGJgRAZd2V4jfqnzQOtvTkO6qo=s96-c",
+    "message": "Keren banget, jadi inspirasi banyak temen\" webnya kakk! \n#InfoLoker kata temen\" di live"
+  },
+  {
+    "date": "Wednesday, November 4",
+    "name": "Ryan Aulia",
+    "isOwner": true,
+    "time": "7:22 AM",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJWM9QB9JpEm5l70EwN7efihJPH3lcIH9EPzCKFWPl76FmSQppL=s96-c",
+    "message": "<span class=\"font-bold text-[#ffc24d]\">@Azzahra Rizki Sulardi Trisnawati</span> thanks yaak, siapp haha"
+  }
+]

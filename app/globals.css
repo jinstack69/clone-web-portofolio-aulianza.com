@@ -1,0 +1,213 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f3f5f9;
+  --color-night: #070a1a;
+  --color-cobalt: #2f45ff;
+  --color-lilac: #7483ff;
+  --color-ink: #0f1630;
+  --color-dim: #5b6482;
+  --color-line: #dce1ec;
+  --color-sun: #ffb21e;
+  --color-mint: #19c39c;
+
+  --font-sans: var(--font-aulianza-sans), "AulianzaSans Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-arabic: var(--font-noto-arabic), sans-serif;
+
+  --ease-expo-out: cubic-bezier(0.19, 1, 0.22, 1);
+  --ease-page-fade: cubic-bezier(0.33, 0, 0.2, 1);
+  --ease-expo-in-out: cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+:root {
+  --color-bg: #f3f5f9;
+  --color-surface: #ffffff;
+  --color-border: #dce1ec;
+  --color-border-input: #5b6482;
+  --color-text: #0f1630;
+  --color-text-muted: #5b6482;
+  --color-accent: #2f45ff;
+  --color-on-accent: #ffffff;
+  --color-accent-dark: #7483ff;
+  --color-bg-dark: #070a1a;
+  --color-surface-dark: #0b1030;
+  --color-border-dark: #1e2640;
+  --color-text-dark: #ffffff;
+  --color-text-dark-muted: #aab4d0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-aulianza-sans), "AulianzaSans Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--color-ink);
+  background-color: var(--color-bg);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: clip;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Liquid Glass Backdrops */
+.liquid-glass {
+  --glass-tint: rgba(255, 255, 255, 0.05);
+  isolation: isolate;
+  background-color: var(--glass-tint);
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)'/%3E%3C/svg%3E");
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.35s cubic-bezier(0.19, 1, 0.22, 1), box-shadow 0.35s cubic-bezier(0.19, 1, 0.22, 1);
+  position: relative;
+  box-shadow: rgba(255, 255, 255, 0.24) 0px 1px inset, rgba(0, 0, 0, 0.32) 0px -3px 6px inset, rgba(255, 255, 255, 0.03) 0px 0px 0px 1px inset, rgba(255, 255, 255, 0.05) 0px 1px, rgba(0, 0, 0, 0.3) 0px 2px 4px, rgba(0, 0, 0, 0.6) 0px 18px 36px -16px;
+}
+.liquid-glass.fixed,
+.liquid-glass.\!fixed,
+.liquid-glass.absolute {
+  position: unset;
+}
+
+html.glass-refract .liquid-glass {
+  backdrop-filter: url("#liquid-glass") blur(3px) saturate(185%) brightness(1.05);
+  -webkit-backdrop-filter: url("#liquid-glass") blur(3px) saturate(185%) brightness(1.05);
+}
+
+html.glass-refract.is-flying .liquid-glass,
+html.glass-refract .liquid-glass.glass-moving {
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+}
+
+.liquid-glass::before {
+  content: "";
+  z-index: -1;
+  border-radius: inherit;
+  pointer-events: none;
+  background: radial-gradient(120% 90% at var(--gx, 30%) var(--gy, -10%), rgba(255, 255, 255, 0.14), transparent 55%), radial-gradient(ellipse 110% 70% at 50% -20%, rgba(255, 255, 255, 0.16), transparent 62%);
+  opacity: 0.9;
+  transition: opacity 0.4s;
+  position: absolute;
+  inset: 0px;
+}
+
+.liquid-glass::after {
+  content: "";
+  z-index: -1;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.32), rgba(255, 255, 255, 0.02) 38%, rgba(0, 0, 0, 0.25) 70%, rgba(255, 255, 255, 0.14));
+  padding: 1px;
+  position: absolute;
+  inset: 0px;
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+}
+
+.liquid-glass:hover::before {
+  opacity: 1;
+}
+
+a.liquid-glass:hover,
+button.liquid-glass:hover {
+  transform: translateY(-1px);
+}
+
+a.liquid-glass:active,
+button.liquid-glass:active {
+  transform: translateY(1px) scale(0.98);
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 2px 6px inset, rgba(255, 255, 255, 0.08) 0px -1px inset, rgba(0, 0, 0, 0.3) 0px 1px 2px;
+}
+
+.liquid-glass-dark {
+  --glass-tint: rgba(7, 10, 26, 0.45);
+}
+
+@keyframes reminder-fill {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #070a1a;
+}
+::-webkit-scrollbar-thumb {
+  background: #2f45ff;
+  border-radius: 4px;
+}
+
+/* Explicit section spacers matching reference audit heights */
+.h-28 {
+  height: 112px;
+}
+.hero-mask-p {
+  padding-top: 0.1em;
+  top: 175px;
+  left: 20px;
+  width: 350px;
+}
+@media (min-width: 768px) {
+  .md\:h-40 {
+    height: 160px;
+  }
+  .hero-mask-p {
+    top: 235px;
+    left: 120px;
+    width: 1120px;
+  }
+  .card-deck-0 {
+    transform: perspective(1400px);
+    opacity: 1;
+  }
+  .card-deck-1 {
+    transform: perspective(1400px) rotateY(-4.52deg) scale(0.9742);
+    opacity: 0.8385;
+  }
+  .card-deck-2 {
+    transform: perspective(1400px) rotateY(-13.1deg) scale(0.9251);
+    opacity: 0.5319;
+  }
+  .card-deck-3 {
+    transform: perspective(1400px) rotateY(-14deg) scale(0.92);
+    opacity: 0.5;
+  }
+  .card-deck-4 {
+    transform: perspective(1400px) rotateY(-14deg) scale(0.92);
+    opacity: 0.5;
+  }
+  .card-deck-5 {
+    transform: perspective(1400px) rotateY(-14deg) scale(0.92);
+    opacity: 0.5;
+  }
+
+  .marquee-row-1 {
+    transform: translate3d(-919.3px, 0px, 0px);
+  }
+  .marquee-row-2 {
+    transform: translate3d(-6771.8px, 0px, 0px);
+  }
+}
+
+@media (max-width: 767px) {
+  .marquee-row-1 {
+    transform: translate3d(-392.2px, 0px, 0px);
+  }
+  .marquee-row-2 {
+    transform: translate3d(-3745.9px, 0px, 0px);
+  }
+}
+
+

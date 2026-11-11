@@ -1,0 +1,184 @@
+{
+  "unbraid": {
+    "slug": "unbraid",
+    "index": 0,
+    "title": "unbraid",
+    "description": "An open source CLI and VS Code extension that untangles a messy working tree into clean, atomic commits with AI-written messages, and lets you review every group before anything is committed.",
+    "content": "## Overview\n\n**unbraid** turns a messy pile of changes into clean, well-described commits. After a long session, `git status` often lists fifty files across a fix, a feature, a refactor and a dependency bump. unbraid reads every change, works out what belongs together, writes a real message for each group, and shows you the plan before it touches anything.\n\nOne command, about a minute, and a history a reviewer can actually read.\n\n## Why I built it\n\nGood work deserves a good record. I kept ending long sessions with a single `update stuff` commit because sorting the pile by hand took longer than the fix itself. That record is useless to a reviewer, to a teammate, and to me a month later. I wanted the sorting done for me, without giving up control or trust.\n\n## How it works\n\n1. **Read** every changed, added, deleted, renamed and untracked file.\n2. **Group** the changes with a quick pass over paths and trimmed diffs.\n3. **Write** a title and body for each group from its full diff, in conventional commit style or your own.\n4. **Review** the plan in an interactive screen: reorder, merge, rename or drop groups, or move single files.\n5. **Commit** each group in order, and optionally push and open a pull request.\n\n## Built to be trusted\n\n- **It never changes your files.** It only stages and commits. If anything fails halfway, every commit it made is undone and your staging is restored exactly.\n- **It never loses a change.** AI models invent file names, repeat files and forget others, so unbraid checks every file the model names against the real changes. Invented ones are dropped, duplicates removed, and anything left over is shown to you, never skipped.\n- **Your commits stay yours.** Any co-author trailer or \"generated with\" line the model adds is stripped twice, when the plan is built and again at commit time.\n\n## Works with what you already have\n\nunbraid uses the Claude Code or Codex CLI subscription you already pay for, with no API key and no extra cost. It also works with the Anthropic API and any OpenAI or Anthropic compatible endpoint, including models running locally on your own machine for free. `unbraid init` sets it up step by step and checks the connection before you walk away.\n\n## Where to use it\n\n- **Terminal:** `npx unbraid --dry-run` to try it without changing anything, or install it globally from npm.\n- **Editor:** the unbraid extension for VS Code, Cursor, Windsurf and VSCodium, on the VS Code Marketplace and Open VSX, with a review panel and one-click undo.\n\n## Tech\n\nTypeScript and Node.js, a fast interactive terminal UI, a git layer that stages hunks safely, provider adapters for the CLIs and APIs, and a VS Code extension. Covered by tests and CI, and released under the MIT license.",
+    "year": 2026,
+    "client": null,
+    "stacks": [
+      "TypeScript",
+      "Node.js",
+      "Git",
+      "Claude",
+      "VS Code Extension"
+    ],
+    "services": [
+      "Open Source",
+      "Developer Tooling",
+      "AI Integration"
+    ],
+    "deliverables": [
+      "npm CLI",
+      "VS Code Extension",
+      "Open VSX Extension",
+      "Documentation"
+    ],
+    "demo": "https://www.npmjs.com/package/unbraid",
+    "github": "https://github.com/aulianza/unbraid",
+    "video": null,
+    "image": null,
+    "updated": "2026-10-30T15:01:57.112Z"
+  },
+  "clawhome": {
+    "slug": "clawhome",
+    "index": 1,
+    "title": "ClawHome",
+    "description": "A self-hosted, all-in-one personal dashboard running on a Mac Mini that brings together smart home control, personal finance tracking, system monitoring, AI-powered conversation, automation, and spiritual routines into a single, unified interface.",
+    "content": "## Overview\n\n**ClawHome** is a self-hosted, all-in-one personal dashboard that I designed and built from scratch to serve as the central hub of my daily digital life. Running on a Mac Mini in my home, it brings together smart home control, personal finance tracking, system monitoring, AI-powered conversation, automation, and spiritual routines into a single, unified interface. It is a private project with no public preview available, but the depth and breadth of what it accomplishes make it one of the most meaningful things I have built.\n\n---\n\n## Background & Motivation\n\nLike many developers, I found myself juggling a growing collection of tools, apps, and services to manage different aspects of my life. I had smart home devices from different manufacturers, financial spreadsheets, system monitoring scripts, calendar events, weather checks, and various AI chatbots — each living in its own silo. The friction of switching between them, the lack of integration, and the inability to customize any of them to fit my actual routine left me frustrated.\n\nI wanted a single place — a personal command center — that understood my context: my location, my schedule, my faith, my finances, and my devices. Something that was fast, private, and completely under my control. No third-party dashboards, no cloud-hosted services I had to trust with my data. Just my machine, my network, my rules.\n\nThat is what ClawHome became.\n\n---\n\n## Technical Architecture\n\n### Stack\n\n- **Frontend**: Next.js (React) with TypeScript, Tailwind CSS, and Zustand for state management\n- **Backend**: Python Flask with RESTful API design\n- **Database**: PostgreSQL for persistent storage\n- **Hosting**: Runs locally on a Mac Mini, served over the local network\n- **Automation**: macOS launchd services for scheduled background tasks\n- **Authentication**: JWT-based session management with PIN protection for sensitive modules\n\n### Design Decisions\n\nI chose a modular, flat architecture on the frontend rather than a deeply nested component tree. Each feature — finance, network, system control, AI chat — lives in its own self-contained module with its own service layer, custom hooks, and UI components. This makes it easy to add, remove, or iterate on features without affecting the rest of the application.\n\nThe backend follows a similar philosophy: route-based API endpoints organized by domain, each with clear responsibilities. Communication between frontend and backend uses proxied requests through Next.js, keeping everything on the same origin and avoiding CORS complexity.\n\n---\n\n## Features\n\n### Home Dashboard\n\nThe landing page is designed to be the first thing I see each day. It is a carefully curated collection of widgets, each serving a specific purpose:\n\n- **Live Clock** — Displays the current time and date formatted in Indonesian locale, with contextual greetings that change throughout the day (Good Morning, Good Afternoon, Good Evening) accompanied by matching icons.\n- **Weather** — Pulls real-time weather data for my city, showing current conditions at a glance.\n- **Prayer Times** — Calculates and displays the five daily Islamic prayer times based on my exact coordinates using the Indonesian Kemenag calculation method.\n- **Daily Quran Verse** — Features a verse of the day rendered with proper Arabic typography (right-to-left layout, Noto Sans Arabic font) alongside its translation.\n- **Motivational Quotes** — A daily dose of inspiration, with the ability to share directly to social media.\n- **System Health** — At-a-glance indicators for CPU, memory, and storage usage of the Mac Mini.\n\n### Vacation Mode\n\nOne of my favorite personal touches. A single toggle that pauses all routine automations — prayer call notifications, meal reminders, morning weather reports, and motivational messages. When toggled back off, it greets me with a welcome-back message and resumes everything immediately. It is a small feature, but it reflects how the system adapts to my life rather than the other way around.\n\n### Smart Home Control (Tuya Integration)\n\nClawHome connects to my Tuya smart home devices, allowing me to monitor and control lights, switches, and other IoT devices directly from the dashboard. No separate app needed — everything is in one place.\n\n### Network Management (TP-Link)\n\nThe network module gives me full visibility into my home network through TP-Link router integration:\n\n- Overview of connected devices\n- Internet speed test history\n- Bandwidth usage monitoring\n- Network topology visualization\n\nThis has been invaluable for diagnosing connectivity issues and understanding which devices are consuming the most bandwidth.\n\n### System Control\n\nDirect macOS system controls accessible from the browser:\n\n- **Volume** — Get, set, mute, and unmute system audio\n- **Display** — Sleep and wake the display\n- **System Commands** — Lock screen, restart, shutdown, empty trash, take screenshots\n\nThese are implemented using AppleScript and system commands executed by the backend, giving me remote control of the Mac Mini from any device on my network.\n\n### Personal Finance\n\nA fully-featured financial tracking module, protected by a secondary PIN for security. It includes:\n\n- **Credit Facilities** — Tracking credit card usage against limits\n- **Monthly Billing** — Bill tracking with payment status\n- **Installments** — Active installment payment schedules\n- **Recurring Expenses** — Automatic tracking of subscriptions and repeating costs\n- **Savings** — Savings pockets with allocation tracking across different goals\n\nAll financial data stays on the local machine. Nothing is sent to any external service.\n\n### AI Chat\n\nA multi-provider AI chat interface that lets me converse with different AI models from a single interface. I can configure and switch between providers, manage chat history, and get streaming responses rendered with full Markdown support. It acts as my daily AI companion for brainstorming, learning, and problem-solving.\n\n### Cloudflare & Domain Management (Dynadot)\n\nClawHome integrates with Cloudflare for DNS management and analytics monitoring, and with Dynadot for domain portfolio management. I can check DNS records, review traffic analytics, and manage my domains without leaving the dashboard.\n\n### Server Management (EasyPanel)\n\nIntegration with EasyPanel allows me to monitor and manage my server containers, view service logs, check server stats, and perform service actions — all from within the dashboard.\n\n### GitHub Integration\n\nA dedicated GitHub module shows repository activity, recent commits, and development progress at a glance.\n\n### Google Calendar\n\nCalendar integration brings my schedule directly into the dashboard, displayed alongside other daily context like weather and prayer times.\n\n### Automation Manager\n\nClawHome includes a built-in automation system powered by macOS launchd services:\n\n- **Prayer Notifications** — Automatic Azan audio alerts at prayer times, with notifications sent to Telegram\n- **Morning Routine** — Automated daily weather report and motivational message delivered to Telegram\n- **Meal Reminders** — Scheduled reminders for breakfast, lunch, and dinner\n- **Speed Tests** — Periodic internet speed tests with historical logging\n- **System Monitoring** — Uptime checks and bandwidth snapshots\n\nThe automation manager within the dashboard shows real-time status of all scheduled tasks, activity logs, and the ability to manually trigger any automation on demand.\n\n---\n\n## Design Philosophy\n\n### Personal First\n\nEvery design decision was made for one user: me. There is no need to generalize, no compromise for a broader audience. This freedom allowed me to build exactly what I needed, with the exact level of complexity that made sense. If a feature felt right, I added it. If something annoyed me, I removed it.\n\n### Privacy by Architecture\n\nClawHome is not just private in philosophy — it is private by architecture. The backend binds only to the local loopback interface. The database runs locally. Financial data, chat history, and personal routines never leave the machine. There are no analytics trackers, no third-party logging, and no cloud dependencies for core functionality.\n\n### Attention to Detail\n\nThe small things matter. Proper Arabic font rendering for Quran verses. Contextual greetings that match the time of day. A vacation mode that understands life is not always routine. Skeleton loading states that match the exact structure of the content they replace. These details are what make the difference between a functional tool and something that feels alive.\n\n### Modular and Extensible\n\nThe flat module architecture means adding a new integration or feature is a predictable, low-risk process. Each module is self-contained with its own services, hooks, and components. This has made it easy to grow the project organically over time without creating a tangled monolith.\n\n---\n\n## What I Learned\n\nBuilding ClawHome has been a ongoing exercise in full-stack development, system integration, and product thinking — at a personal scale. Some of the key takeaways:\n\n- **Integration is harder than building from scratch.** Connecting Tuya, TP-Link, Cloudflare, Dynadot, EasyPanel, GitHub, and Google Calendar — each with its own API quirks, authentication flows, and data formats — taught me more about real-world API consumption than any tutorial could.\n- **Local-first has trade-offs.** Running everything on a Mac Mini means I have full control, but it also means I am responsible for uptime, monitoring, and recovery. The automation system I built exists partly because I needed the machine to take care of itself.\n- **Designing for one user is a superpower.** Without the constraint of pleasing everyone, I could iterate fast, make opinionated choices, and build something that genuinely fits how I live and work.\n- **Automation compounds.** What started as a simple prayer time notification evolved into a full morning routine system, then into meal reminders, then into automated network monitoring. Each automation made the system more valuable and motivated the next one.\n\n---\n\n## Closing Thoughts\n\nClawHome is not a startup. It is not a product. It is a living project that grows with me — a reflection of my routines, values, and curiosity. It brings together the technical and the personal in a way that no off-the-shelf tool ever could, and it reminds me every day that the best software is the software built with genuine care for the person using it.",
+    "year": 2026,
+    "client": null,
+    "stacks": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Python",
+      "PostgreSQL"
+    ],
+    "services": [
+      "Full-Stack Development",
+      "IoT Integration",
+      "System Automation",
+      "Network Management",
+      "API Integration"
+    ],
+    "deliverables": [
+      "Self-hosted Personal Dashboard",
+      "Automation System",
+      "Smart Home Integration",
+      "Multi-provider AI Chat Interface"
+    ],
+    "demo": null,
+    "github": null,
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/aef9d9ba-adea-401d-a2ef-3eaa581fa759.webp",
+    "updated": "2026-05-23T05:26:38.662Z"
+  },
+  "workmates": {
+    "slug": "workmates",
+    "index": 2,
+    "title": "WorkMates",
+    "description": "WorkMates connects remote workers and digital nomads, helping you to find and create co-working sessions at cafes and public spaces. Build meaningful connections with like-minded professionals and grow your remote work community wherever you are.",
+    "content": "## The Story Behind WorkMates\n\nI’ve been working remotely for almost **5 years** now, and honestly, I often find myself working from cafes—probably **3–4 times a week**. Working from home all day can get pretty boring sometimes. Anyone else feel the same?\n\nMost of the time, I’m either working alone or with some friends. But when I’m by myself, I sometimes wish I had someone around, just to chat with or bounce ideas off of. It makes those long work sessions feel a bit less lonely.\n\nThat’s what inspired me to build **WorkMates** — a platform that helps remote workers find and join **co-working sessions** with others nearby.\n\nIt’s **completely free** to use, and I’m planning to **open source** it soon so the community can help make it even better.\n\n---\n\n## Tech Stack\n\n- **Next.js 15** (App Router)\n- **Tailwind CSS + Shadcn/ui** for styling (love how clean it looks)\n- **SWR** for data fetching\n- **Zustand** for state management\n- **Prisma + PostgreSQL**\n- **Firebase** for real-time chat\n- **NextAuth** for authentication\n- **PostHog** for analytics\n- **PWA support**\n- **OpenStreetMap**\n\n---\n\n## Try It Out 🚀\n\n👉 https://workmates.space\n\nIf you’re a remote worker who’s ever felt the same way, give it a try.  \nI’d love to hear your thoughts and feedback 👋",
+    "year": 2025,
+    "client": null,
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "Firebase",
+      "NextAuth",
+      "Prisma",
+      "SWR",
+      "Tailwind CSS",
+      "PostHog",
+      "PWA",
+      "OpenStreetMap"
+    ],
+    "services": [],
+    "deliverables": [],
+    "demo": "https://workmates.aulianza.dev",
+    "github": null,
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/5dbd672f-74cc-4f02-aeea-b10701da9e7c.webp",
+    "updated": "2026-05-23T05:33:25.782Z"
+  },
+  "aulianza-com": {
+    "slug": "aulianza-com",
+    "index": 3,
+    "title": "aulianza.com",
+    "description": "Personal website built with Next.js 16 App Router, TypeScript and Tailwind CSS.",
+    "content": "## The Current Version of My Personal Website\n\nThis is the website you're looking at right now — **aulianza.com** — my digital home on the internet. It's where I showcase my work, share my thoughts through blog posts, and provide useful tools for fellow developers.\n\nI built this version from scratch using **Next.js** with the Pages Router, **TypeScript**, and **Tailwind CSS**. The design follows a neo-brutalist aesthetic that reflects my personality — bold, clean, and unapologetically different.\n\n### What's Inside\n\n- **Blog** — Articles about web development, AI, and machine learning, powered by a headless WordPress CMS\n- **Portfolio** — A showcase of projects I've built for clients and personal experiments\n- **Statistics** — Public analytics dashboard showing real-time site traffic\n- **Tools** — A collection of free developer utilities (JSON formatter, color palette generator, and more)\n- **Guestbook** — An interactive space where visitors can leave messages\n- **Spotify Integration** — Shows what I'm currently listening to\n- **WakaTime Stats** — Live coding activity dashboard\n- **GitHub Contributions** — My open source contribution heatmap\n\n### Design Philosophy\n\nI wanted this site to feel like **me** — not another generic developer portfolio. The neo-brutalist design with bold borders, offset shadows, and a dark/light mode toggle makes it stand out. It's also fully **responsive**, supports **3 languages** (English, Indonesian, Arabic with RTL), and is optimized for performance and SEO.\n\n### Tech Stack\n\n- **Next.js** — React framework with server-side rendering\n- **TypeScript** — Type-safe development\n- **Tailwind CSS** — Utility-first styling with custom design tokens\n- **Prisma + PostgreSQL** — Database layer for portfolio and views\n- **NextAuth** — Authentication system\n- **react-i18next** — Internationalization support",
+    "year": 2023,
+    "client": null,
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "services": [],
+    "deliverables": [],
+    "demo": "https://aulianza.com",
+    "github": "https://github.com/aulianza/aulianza.com",
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/2b8c3b96-9bd3-4de0-bfba-bcdb87322c0d.webp",
+    "updated": "2026-05-23T05:32:31.410Z"
+  },
+  "pomoro": {
+    "slug": "pomoro",
+    "index": 4,
+    "title": "Pomoro",
+    "description": "Simple Pomodoro and Todo List App built with Next.js, TS, Tailwind CSS and Zustand.",
+    "content": "## A Minimalist Pomodoro Timer + Todo App\n\n**Pomoro** is a simple yet effective productivity tool that combines the Pomodoro technique with a task manager. I built it because I wanted a clean, distraction-free timer that also lets me track what I need to get done.\n\n### How It Works\n\nThe app follows the classic Pomodoro method — **25 minutes of focused work**, followed by a **5-minute break**. After 4 pomodoros, you get a longer 15-minute break. The integrated todo list lets you add tasks, mark them complete, and stay on top of your workload.\n\n### Features\n\n- Adjustable timer with work/break intervals\n- Integrated task management\n- Session tracking — see how many pomodoros you've completed\n- Clean, minimal interface that stays out of your way\n- Data persists in your browser via local storage\n\n### Why I Built This\n\nI tried dozens of Pomodoro apps, but they were all either too bloated with features I didn't need, or too bare-bones to be useful. Pomoro strikes the right balance — just enough functionality without the noise.\n\n### Tech Stack\n\n- **Next.js** — React framework\n- **TypeScript** — Type safety\n- **Tailwind CSS** — Styling\n- **Zustand** — Lightweight state management",
+    "year": 2023,
+    "client": null,
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "services": [],
+    "deliverables": [],
+    "demo": "https://pomoro.aulianza.dev",
+    "github": "https://github.com/aulianza/pomoro",
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/1c0a691f-44f6-447c-84d8-dd87a83a6743.webp",
+    "updated": "2026-05-23T05:40:09.554Z"
+  },
+  "aulianza-next-tailwind-starter": {
+    "slug": "aulianza-next-tailwind-starter",
+    "index": 5,
+    "title": "Next + Tailwind Starter Template",
+    "description": "Next.js + TS + Tailwind CSS starter template packed with useful development features.",
+    "content": "## A Developer-Friendly Starter Template\n\nI created this **Next.js + TypeScript + Tailwind CSS** starter template because I found myself setting up the same configuration over and over for every new project. Instead of repeating the process, I packaged everything into a ready-to-use template.\n\n### What's Included\n\n- **Absolute imports** — No more `../../../` relative path nightmares\n- **ESLint + Prettier** — Consistent code formatting out of the box\n- **Husky + lint-staged** — Pre-commit hooks that catch issues before they reach your repo\n- **Conventional commits** — Enforced commit message format for clean git history\n- **TypeScript strict mode** — Maximum type safety\n- **Tailwind CSS** — Pre-configured with sensible defaults\n- **Component structure** — Organized folder architecture ready to scale\n\n### Why Use This\n\nStarting a new project shouldn't take hours of configuration. With this template, you get a production-ready setup in seconds. Just clone, install, and start building.\n\n### Tech Stack\n\n- **Next.js** — React framework\n- **TypeScript** — Type-safe development\n- **Tailwind CSS** — Utility-first styling\n- **ESlint + Prettier + Husky** — Code quality tools",
+    "year": 2023,
+    "client": null,
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "services": [],
+    "deliverables": [],
+    "demo": "https://next-tailwind-starter.aulianza.id",
+    "github": "https://github.com/aulianza/next-tailwind-starter",
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/78543b92-1bbc-4b42-87f6-d0ab69c8e08b.webp",
+    "updated": "2026-05-23T05:44:02.979Z"
+  },
+  "flexcode-v1": {
+    "slug": "flexcode-v1",
+    "index": 6,
+    "title": "FlexCode Company Profile",
+    "description": "A company profile website of PT Flexcode Space Teknologi.",
+    "content": "## Company Profile — PT FlexCode Space Teknologi\n\nI built the official company profile website for **PT FlexCode Space Teknologi**, a technology company based in Indonesia specializing in software development and IT solutions.\n\n### The Challenge\n\nFlexCode needed a modern, professional web presence that clearly communicated their services, expertise, and company values to potential clients. The website had to be fast, responsive, and easy to maintain.\n\n### What I Built\n\n- **Responsive landing page** with smooth scroll navigation\n- **Services section** showcasing their core offerings\n- **Team section** introducing key personnel\n- **Contact form** with backend integration\n- **SEO optimization** for search engine visibility\n\n### Tech Stack\n\n- **Next.js** — Server-side rendering and static generation\n- **TypeScript** — Type-safe codebase\n- **Tailwind CSS** — Responsive, modern styling\n- **Client:** PT FlexCode Space Teknologi",
+    "year": 2023,
+    "client": "PT FlexCode Space Teknologi",
+    "stacks": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "services": [],
+    "deliverables": [],
+    "demo": "https://flexcode.co.id",
+    "github": null,
+    "video": null,
+    "image": "https://cdn.aulianza.com/website/portfolio/0d87ffd2-2040-43ba-b5cf-a998284e874a.webp",
+    "updated": "2026-05-23T05:51:14.496Z"
+  }
+}
